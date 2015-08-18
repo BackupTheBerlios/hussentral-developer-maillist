@@ -1,0 +1,197 @@
+From bjorn.venn at bfk.no  Wed Oct 18 10:21:03 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 18 Oct 2006 10:21:03 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?Husk_prosjektm=F8te_hos_Cyb?=
+	=?iso-8859-1?q?ercom_i_morgten_kl_10-14!?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F79A33C@vfksr035.login.top.no>
+
+
+Hei,
+
+Husk prosjektm?te hos Cybercom i morgten kl 10-14!
+Agenda er sendt utr tidligere (men kort: Referat fra Vasa, demo av Diptels  (www.diptel.no) og Cybercoms l?sning, status ?konomi m.m.)
+
+Husk Cybercoms nye adresse: Strandgata 25 p? Lysaker, parkering i P-hus p? Lysaker-lokket.
+
+Vel m?tt!
+
+Hilsen
+Bj?rn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061018/f1be2255/attachment.html>
+
+From john.kolsvik at cybercomgroup.com  Wed Oct 18 10:51:08 2006
+From: john.kolsvik at cybercomgroup.com (John Kolsvik)
+Date: Wed, 18 Oct 2006 10:51:08 +0200
+Subject: [Hussentral-developer]
+	=?iso-8859-1?q?Husk_prosjektm=F8te_hos_Cyb?=
+	=?iso-8859-1?q?ercom_i_morgten_kl_10-14!?=
+Message-ID: <26193DDDE8D38E439001299720EBDD55038D230A@stomsx1.global.ad>
+
+NB!!!!!! Korrekt adresse er: Strandveien 35 p? Lysaker
+
+ 
+
+ 
+
+Videre;
+
+-          Det ville v?re fint pga logistikken ? f? en tilbakemelding p? mail hvem som kommer.
+
+-          PARKERING: For de av dere som kommer med bil s? anbefaler jeg parkering i parkeringshuset under Lysaker torg.
+
+ 
+
+ 
+
+ASTERISK SWICHBOARD APPLIKASJON: Vi har n? en tidlig Beta versjon av en Asterisk swichboard applikasjon, se for?vrig en skisse p? denne i vedlagt ppt. For de av dere som ?nsker en demo av denne s? kan vi kj?re den b?de i forkant, eventuelt etterkant av m?te. Gi meg gjerne en tilbakemelding p? mail om du ?nsker en demo.
+
+ 
+
+ 
+
+Mvh
+
+John Kolsvik
+
+Tlf 40 20 20 00
+
+________________________________
+
+From: hussentral-developer-bounces at lists.berlios.de [mailto:hussentral-developer-bounces at lists.berlios.de] On Behalf Of Bj?rn Venn
+Sent: 18. oktober 2006 10:21
+To: hussentral-developer at lists.berlios.de
+Subject: [Hussentral-developer] Husk prosjektm?te hos Cybercom i morgten kl 10-14!
+
+ 
+
+ 
+
+Hei,
+
+Husk prosjektm?te hos Cybercom i morgten kl 10-14!
+Agenda er sendt utr tidligere (men kort: Referat fra Vasa, demo av Diptels  (www.diptel.no) og Cybercoms l?sning, status ?konomi m.m.)
+
+Husk Cybercoms nye adresse: Strandgata 25 p? Lysaker, parkering i P-hus p? Lysaker-lokket.
+
+Vel m?tt!
+
+Hilsen
+Bj?rn 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061018/fb74f8d2/attachment.html>
+
+From bjorn.venn at bfk.no  Thu Oct 19 15:22:44 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Thu, 19 Oct 2006 15:22:44 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?M=F8teref=2E_fra_dagens_m?=
+	=?iso-8859-1?q?=F8te_i_merkantil_gruppe?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68FB12F22@vfksr035.login.top.no>
+
+Det ble ikke satt noen ny dato for neste m?te.
+
+Bj?rn kaller inn ved behov. <<Referat fra m?te i merkantil gruppe 19 10 06.pdf>> 
+
+Hilsen
+Bj?rn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061019/18cc0458/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Referat fra m?te i merkantil gruppe 19 10 06.pdf
+Type: application/octet-stream
+Size: 1133118 bytes
+Desc: Referat fra m?te i merkantil gruppe 19 10 06.pdf
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061019/18cc0458/attachment.obj>
+
+From john.kolsvik at cybercomgroup.com  Fri Oct 20 09:14:57 2006
+From: john.kolsvik at cybercomgroup.com (John Kolsvik)
+Date: Fri, 20 Oct 2006 09:14:57 +0200
+Subject: [Hussentral-developer]
+	=?iso-8859-1?q?M=F8teref=2E_fra_dagens_m?=
+	=?iso-8859-1?q?=F8te_i_merkantil_gruppe?=
+Message-ID: <26193DDDE8D38E439001299720EBDD55038D231E@stomsx1.global.ad>
+
+Hei
+
+ 
+
+Jeg viser til Bj?rn's referat og Cybercom's demo av utviklet Switchboard applikasjon (ASL) og har f?lgende kommentarer og pressisering;
+
+ 
+
+1. L?sningen h?ndterer pr dato:
+
+-          Live oppdatering av k?, p.t. 1-2 sek forsinkelse ikke 4!
+
+-          Viderekobling
+
+-          Integrasjon med Outlook for frav?rsmarkering etc..
+
+-          Uthopp av k? med gjennlegging av telefonnummer for ring tilbake.
+
+-          Mobilterminaler kan benyttes som IP klienter
+
+ 
+
+2. ASL, versjon 1 vil v?re klar innen 10 november, inkl. bla:
+
+- forbedret integrasjon med Outlook (andre l?sninger kan ogs? integreres)
+
+- Softphone i operat?r grensesnittet
+
+ 
+
+3. Leveranser av ASL
+
+- Andre som ?nsker demo er velkommen til ? ta kontakt
+
+- Noen f? testbrukere er ?nsket
+
+- Partnere er velkomne
+
+- Cybercom har ikke til hensikt ? v?re leverand?r av l?sningen
+
+ 
+
+ 
+
+Mvh
+
+John Kolsvik
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061020/31ecd634/attachment.html>
+
+From bjorn.venn at bfk.no  Fri Oct 27 15:32:38 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Fri, 27 Oct 2006 15:32:38 +0200
+Subject: [Hussentral-developer] Les dagens kommentar i CW
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68FB12F43@vfksr035.login.top.no>
+
+Hei alle Asterisk-venner!
+
+Les dagens kommentar i norske Computerworld av Arne S?iland: http://www.idg.no/incoming/article30188.ece
+Han utfordrer Post og Teletilsynet i Norge til ? ta i bruk en hussentral basert p? fri programvare n?r de til neste ?r flytter til Lillesand.
+
+Jeg holdt et foredrag om Asterisk for dem for ett ?rs tid siden og har allerede ringt og snakket med avdelingsleder Knut Bryn. Han hadde ikke rukket og lese CW, men han syntes dette var et interessant utspill av Arne S?iland (som for?vrig tidligere har jobbet i PT). Vi ble enige om ? m?tes for ? diskutere dette n?rme.
+
+God helg!
+
+Hilsen
+Bj?rn venn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20061027/237c14c0/attachment.html>
+

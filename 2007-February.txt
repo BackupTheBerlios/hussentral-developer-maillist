@@ -1,0 +1,36 @@
+From bjorn.venn at bfk.no  Wed Feb 21 16:22:37 2007
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 21 Feb 2007 16:22:37 +0100
+Subject: [Hussentral-developer] =?iso-8859-1?q?Asterisk/EUX-konferanse_i_K?=
+	=?iso-8859-1?q?=F8benhavn_den_28=2E-29=2E_mai=3F?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68FB133A0@vfksr035.login.top.no>
+
+Hei!
+
+Noen som kan tenke seg ? v?re med ? planlegge og gjennomf?re en Asterisk/EUX-konferanse i K?benhavn i slutten av mai, for eksempel den 28.-29. mai? (rett etter pinsen. Ta en langweekend i K?benhavn, eller fly inn om morgenen den 28.)
+
+Noen som har oversikt over andre VoIP/Asterisk-arrangementer p? denne tiden, som vi eventuelt kan samarbeide med eller legge oss inntil?
+
+Forslag til opplegg:
+
+Dag 1: Kl 10 - 18. To parallelle sesjoner: 
+Sesjon 1: Newbees-track: Hva er Asterisk? Hvordan komme i gang med Asterisk? Muligheter og begrensinger med Asterisk. Et par-tre case-studies (sponsorene har fortrinnsrett:-). Kort om EUX (hvorfor EUX? Status og planer)
+Sesjon 2: EUX2010SEC (for de som er med i dette viktige delprosjektet)
+
+Felles middag.
+
+Dag 2: kl 08.30 - 16
+Sesjon 1: Developer track. Hvordan utvikle applikasjoner til Asterisk?
+Sesjon 2: EUX2010- veien mot en komplett bedriftsintern kommunikasjonsl?sning med utgangspunkt i Asterisk. Hvor st?r prosjektet? Hva m? gj?res? Finansiering. 
+
+Man kan melde seg p? kun en av dagene, eller begge dagene.
+Det gies ingen godtgj?relse for ? v?re med ? planlegge og gjennomf?re, men kanskje du kan f? holde et innlegg?
+
+SPONSORER S?KES! 
+
+Beste hilsner
+Bj?rn Venn og Morten Kj?rsgaard
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20070221/3be9c7b7/attachment.html>
+

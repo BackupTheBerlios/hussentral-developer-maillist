@@ -1,0 +1,1265 @@
+From areast at cbktele.com  Fri Jun  9 16:41:15 2006
+From: areast at cbktele.com (Are)
+Date: Fri, 09 Jun 2006 16:41:15 +0200
+Subject: [Hussentral-developer] Bruk av Asterisk navnet
+Message-ID: <4489888B.1000606@cbktele.com>
+
+Vedlagt ligger en orientering fra Andrew Gillis ang?ende bruk av 
+Asterisk navnet. Asterisk er trademarked av Digium men det virker som om 
+de godtar bruk av navnet s? lenge alt er open source. I virkelighetens 
+verden s? er nok dette en begrensning.
+
+Du finner linken under.
+
+Are Casilla
+CBK Communications as / CBK Tele as
+Enterprise Grade VOIP Solutions
++47 2156 5950 (Direkte/Directly)
++47 9012 3892 Mobil
+
+http://blog.tmcnet.com/blog/tom-keating/asterisk/trixbox-founder-responds.asp
+
+And here's a response from Andrew from Trixbox (Formely Asterisk at Home)
+
+Andrew: I created Asterisk at Home a year ago on a whim. I thought what a 
+great idea to make Asterisk easy to install. It very quickly grew much 
+bigger than I thought it would. One day Digium contacted me and told me 
+that Asterisk is their trademark but I could use it as long as my 
+project remained totally open source.
+
+This sounded good from the start but it put restrictions of the product 
+such as loosing the ability to use free (not open source) software. Then 
+theres my user base. As it turns out most of my users were running 
+Asterisk at Home for business and they didn?t like the name.
+
+The Asterisk at Home name also pigeon holes the product into being an 
+Asterisk distribution. I want to make it more than that and include 
+other type of software. I want it to do more tricks. So the new name 
+trixbox.
+
+I do own the trixbox.org name. I register all my domains using anonymous 
+servers. Hope this helps out. If you are interested in doing a review of 
+trixbox or an interview with me. Just let me know.
+
+
+From bjorn.venn at bfk.no  Mon Jun 12 10:14:24 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Mon, 12 Jun 2006 10:14:24 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+
+Hei!
+
+Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/)
+
+Jeg ser for meg f?lgende alternativer:
+
+1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+
+Hva mener dere andre?
+
+Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+--Bj?rn
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/66d08de4/attachment.html>
+
+From kenneth at allnet-tech.net  Mon Jun 12 10:56:23 2006
+From: kenneth at allnet-tech.net (Kenneth Wiik Andreassen)
+Date: Mon, 12 Jun 2006 10:56:23 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+References: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+Message-ID: <002701c68dfe$15474640$2101000a@ALLNETKWA>
+
+Hva skal barnet hete?Hva med OSBRAX (Open Source BRAnch eXchange) ?
+  ----- Original Message ----- 
+  From: Bj?rn Venn 
+  To: hussentral-developer at lists.berlios.de 
+  Sent: Monday, June 12, 2006 10:14 AM
+  Subject: [Hussentral-developer] Hva skal barnet hete?
+
+
+  Hei! 
+
+  Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+  Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+  Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/)
+
+  Jeg ser for meg f?lgende alternativer: 
+
+  1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+  2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+  Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+
+  Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+  I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+
+
+  Hva mener dere andre? 
+
+  Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+  --Bj?rn 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/856dae8f/attachment.html>
+
+From mortenk at magenta-aps.dk  Mon Jun 12 11:05:37 2006
+From: mortenk at magenta-aps.dk (=?ISO-8859-1?Q?Morten_Kj=E6rsgaard?=)
+Date: Mon, 12 Jun 2006 11:05:37 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+In-Reply-To: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+References: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+Message-ID: <448D2E61.2050202@magenta-aps.dk>
+
+Hej Bj?rn (og alle andre)
+
+Jeg mener, vi skal v?lge model 2. Jeg har aldrig v?ret vild med den 
+direkte kobling til Asterisk, netop fordi vi kommer til at lave en masse 
+rundt om Asterisk - og hvis det er lavet tilstr?kkeligt godt med klart 
+definerede snitflader (og det skal det), s? b?r det ikke v?re knyttet 
+til Asterisk. S? bude det kunne anvendes samme med andre 'VoIP-motorer'. 
+Indtil videre har vi v?ret meget fokuserede p? Asterisk, men selve 
+'motoren' Asterisk bliver en stadig mindre bestanddel af det samlede 
+system, n?r vi efterh?nden f?r lavet betalingsssystemer, huscentral, osv.
+
+Desuden er er enig med dig, Bj?rn, i at et selvst?ndigt navn vil styrke 
+vores muligheder for at s?ge om EU-midler
+
+Vh
+Morten
+
+Bj?rn Venn wrote:
+
+> Hei!
+>
+> Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan 
+> kalle prosjektet/produktet v?rt med et navnt som inneholder ordet 
+> asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal 
+> gj?re er jo langt p? vei ? lage en mest mulig komplett 
+> telefonil?sning, hvor Asterisk er en viktig komponent, ?la det 
+> Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat 
+> og SMB-markedet).
+>
+> Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. 
+> Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter 
+> p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor 
+> Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+>
+> Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi 
+> fors?vidt friere i forbindelse med hvilke komponenenter som til enhver 
+> tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp 
+> komponenter i framtiden som er "bedre" enn Asterisk (ref. den 
+> innledende diskusjonen vi hadde om Yate, _http://yate.null.ro/_)
+>
+> Jeg ser for meg f?lgende alternativer:
+>
+> 1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i 
+> et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i 
+> den retning.
+>
+> 2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet 
+> vil i st?rre grad bli oppfattet som et europeisk initiativ som med 
+> stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om 
+> ?k.st?tte til prosjektet).
+>
+> Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal 
+> ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call 
+> Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, 
+> evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+>
+> Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) 
+> Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et 
+> system for framtiden, en framtid som er her straks!). Ericsson hadde i 
+> sin tid en hussentral som het BCS 150, men jeg kan ikke se at de 
+> benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+>
+> I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en 
+> del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal 
+> lage en universell telefonil?sning for store og mellomstore 
+> virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg 
+> mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage 
+> SMB-Edition, Enterprise Edition, Goverment-edition osv..
+>
+>
+> Hva mener dere andre?
+>
+> Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for 
+> prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i 
+> god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 
+> 5. oktober.
+>
+> --Bj?rn
+>
+>
+
+
+
+From bjorn.venn at bfk.no  Mon Jun 12 12:32:33 2006
+From: bjorn.venn at bfk.no (=?utf-8?B?QmrDuHJuIFZlbm4=?=)
+Date: Mon, 12 Jun 2006 12:32:33 +0200
+Subject: [Hussentral-developer] SV: NOKIA sponsor money for our European VOIP + Asterisk project for the public Sector.
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D6F6@vfksr035.login.top.no>
+
+Bra Rainer!
+ 
+Spent p? fortsettelsen! H?per Nokia ser verdienm i dette. En del av argumentene for hvorfor de b?r sponse dette prosjektet er skrevet i det dokumentet som heter Sponsor program.
+ 
+Vedr. website, s? avventer vi det litt til det har blitt klart hva vi skal kalle prosjektet/produktet (ref. epost jeg tidligere idag sendte ut p? epostlisten hussentral-developer at lists.berlios.de.
+ 
+Som jeg skrev i en tidligere e-post, s? ?nsker jeg ? samle all informasjon om prosjektet, inkl. diskusjonsgrupper (forum), sider for seminarer/prosjektsamlinger osv. osv.
+ 
+Jeg har f?tt en yngre gutt inn p? mitt kontor, han har noe som kalles Aspergers syndrom, en mild form for autisme. Disse menneskene blir veldig opptatt (hekta) p? noen, og han her er hekta p? Linux og open source software. Han har satt opp mange webservere, s? jeg tenkte ? la han gj?re det. Viktig at han f?r meningsfylte oppgaver. Selve det grafiske designet kan han ikke lage, s? det f?r et webdesign-byr? lage. Det hele m? se profft ut.
+ 
+Ha en god dag!
+ 
+Hilsen
+Bj?rn
+
+
+________________________________
+
+	Fra: Lytz, Rainer [mailto:Rainer.Lytz at puv.fi] 
+	Sendt: 12. juni 2006 10:51
+	Til: petri.rasanen at coss.fi
+	Kopi: Bj?rn Venn
+	Emne: VB: NOKIA sponsor money for our European VOIP + Asterisk project for the public Sector.
+	Viktighet: H?y
+	
+	
+
+	Hi Petri
+
+	 
+
+	Here is some information about the VOIP + Asterisk project Bj?rn Venn who visited you from Norway was talking about.  
+
+	 
+
+	Can you help us to get information about NOKIA or other company sponsorship?  Check out the attached files.  We are planning a kick off conference 5.10.2006 here in Vaasa for this project. (I got the conference moved from Copenhagen to Vaasa since many speakers will attend our common (BIOS + COSS) conference the following day http://www.bios.fi/tiki/tiki-read_article.php?articleId=20 ) The budget is about 7000 ? for this conference.  See attached files. 
+
+	 
+
+	Thank you!
+
+	 
+
+	Rainer
+
+	 
+
+	 
+
+	 
+
+	 
+
+	
+________________________________
+
+
+	Fr?n: Bj?rn Venn [mailto:bjorn.venn at bfk.no] 
+	Skickat: 6. kes?kuuta 2006 19:20
+	Till: Morten Kj?rsgaard
+	Kopia: Stenback, Camilla; Lytz, Rainer; Nikolaj Hommelgaard
+	?mne: Endelig: De engelske prosjektdokumentene er ferdige! 
+
+	 
+
+	Til dere alle 4:
+
+	 
+
+	Da har jeg nettopp mottatt de engelske versjonene, s? da kan vi starte arbeidet med ? kontakte b?de potensielle prosjektdeltagere og potensielle sponsorer. NB: Jeg har ikke selv lest igjennom dem enda.
+
+	 
+
+	Jeg f?r ikke konvertert til pdf akkurat her jeg sitter n? (p? hotellrommet, med web-post). Men det M? vi gj?re f?r vi sender det videre. (Jeg f?r gjort det p? fredag, kanskje senere i kveld)
+
+	 
+
+	Nikolaj: Har du kommet noen vei med ? lage en oversikt over dem vi n? skal kontakte? Viktig at vi har en ?pen liste p? det, s? vi andre ser hvem som kontakter (duimt hvis et firma f?r dette materialet fra to av oss).
+
+	 
+
+	Rainer: Kan du kontakte Nokia og diskuterer om de er interessert i ? g? inn som sponsor (det kan ikke jeg skj?nne at de ikke skulle v?re interessert i:-) Husk Icecom og Plenware ogs?!
+
+	 
+
+	Morten: Jeg har sendt dokumentene til S?ren i IBM (vedr. Eurocities), men ikke til Eddie. Du gj?r det (det er jo det Jen og meg avtalte med ham)
+
+	 
+
+	Jeg er p? en stor IT-konferanse p? S?rlandet i regi av KS, har nettopp presentert det norske forslaget til Nasjonalt kompetansesenter for fri programvare. Siden vedlegg 1 i forslaget omhandler IP-telefoniprosjektet (som et eksempel p? et kompetans- og leverand?rutviklingsprosjekt) fikk jeg ogs? sagt en del om det.
+
+	 
+
+	Hilsen
+
+	Bj?rn
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/9189143f/attachment.html>
+
+From mortenk at magenta-aps.dk  Mon Jun 12 12:58:24 2006
+From: mortenk at magenta-aps.dk (=?UTF-8?B?TW9ydGVuIEtqw6Zyc2dhYXJk?=)
+Date: Mon, 12 Jun 2006 12:58:24 +0200
+Subject: [Hussentral-developer] SV: NOKIA sponsor money for our European
+ VOIP + Asterisk project for the public Sector.
+In-Reply-To: <6850A1692CB5474BA1ABA38F33BBC68F64D6F6@vfksr035.login.top.no>
+References: <6850A1692CB5474BA1ABA38F33BBC68F64D6F6@vfksr035.login.top.no>
+Message-ID: <448D48D0.4050805@magenta-aps.dk>
+
+Hej Bj?rn og Rainer
+
+Det ser rigtig sp?ndende ud - NOKIA er ikke den v?rste partner, is?r 
+pga. deres ganske markante open source profil.
+
+Hvad ang?r det grafiske design - og interaktionsdesignet i det hele 
+taget - s? vil jeg gerne melde mig p? banen p? dette omr?de. Jeg f?r en 
+webdesigner og grafiker tilknyttet fra august og 6 m?neder frem, og jeg 
+har allerede varmet op under ham i relation til VoIP-projektet.
+
+Bedste hilsner
+Morten
+
+Bj?rn Venn wrote:
+
+> Bra Rainer!
+>  
+> Spent p? fortsettelsen! H?per Nokia ser verdienm i dette. En del av 
+> argumentene for hvorfor de b?r sponse dette prosjektet er skrevet i 
+> det dokumentet som heter Sponsor program.
+>  
+> Vedr. website, s? avventer vi det litt til det har blitt klart hva vi 
+> skal kalle prosjektet/produktet (ref. epost jeg tidligere idag sendte 
+> ut p? epostlisten hussentral-developer at lists.berlios.de 
+> <mailto:hussentral-developer at lists.berlios.de>.
+>  
+> Som jeg skrev i en tidligere e-post, s? ?nsker jeg ? samle all 
+> informasjon om prosjektet, inkl. diskusjonsgrupper (forum), sider for 
+> seminarer/prosjektsamlinger osv. osv.
+>  
+> Jeg har f?tt en yngre gutt inn p? mitt kontor, han har noe som kalles 
+> Aspergers syndrom, en mild form for autisme. Disse menneskene blir 
+> veldig opptatt (hekta) p? noen, og han her er hekta p? Linux og open 
+> source software. Han har satt opp mange webservere, s? jeg tenkte ? la 
+> han gj?re det. Viktig at han f?r meningsfylte oppgaver. Selve det 
+> grafiske designet kan han ikke lage, s? det f?r et webdesign-byr? 
+> lage. Det hele m? se profft ut.
+>  
+> Ha en god dag!
+>  
+> Hilsen
+> Bj?rn
+>
+>     ------------------------------------------------------------------------
+>     *Fra:* Lytz, Rainer [mailto:Rainer.Lytz at puv.fi]
+>     *Sendt:* 12. juni 2006 10:51
+>     *Til:* petri.rasanen at coss.fi
+>     *Kopi:* Bj?rn Venn
+>     *Emne:* VB: NOKIA sponsor money for our European VOIP + Asterisk
+>     project for the public Sector.
+>     *Viktighet:* H?y
+>
+>     Hi Petri
+>
+>      
+>
+>     Here is some information about the VOIP + Asterisk project Bj?rn
+>     Venn who visited you from Norway was talking about. 
+>
+>      
+>
+>     Can you help us to get information about NOKIA or other company
+>     sponsorship?  Check out the attached files.  We are planning a
+>     kick off conference 5.10.2006 here in Vaasa for this project. (I
+>     got the conference moved from Copenhagen to Vaasa since many
+>     speakers will attend our common (BIOS + COSS) conference the
+>     following day
+>     http://www.bios.fi/tiki/tiki-read_article.php?articleId=20 ) The
+>     budget is about 7000 ? for this conference.  See attached files.
+>
+>      
+>
+>     Thank you!
+>
+>      
+>
+>     Rainer
+>
+>      
+>
+>      
+>
+>      
+>
+>      
+>
+>     ------------------------------------------------------------------------
+>
+>     *Fr?n:* Bj?rn Venn [mailto:bjorn.venn at bfk.no]
+>     *Skickat:* 6. kes?kuuta 2006 19:20
+>     *Till:* Morten Kj?rsgaard
+>     *Kopia:* Stenback, Camilla; Lytz, Rainer; Nikolaj Hommelgaard
+>     *?mne:* Endelig: De engelske prosjektdokumentene er ferdige!
+>
+>      
+>
+>     Til dere alle 4:
+>
+>      
+>
+>     Da har jeg nettopp mottatt de engelske versjonene, s? da kan vi
+>     starte arbeidet med ? kontakte b?de potensielle prosjektdeltagere
+>     og potensielle sponsorer. NB: Jeg har ikke selv lest igjennom dem
+>     enda.
+>
+>      
+>
+>     Jeg f?r ikke konvertert til pdf akkurat her jeg sitter n? (p?
+>     hotellrommet, med web-post). Men det M? vi gj?re f?r vi sender det
+>     videre. (Jeg f?r gjort det p? fredag, kanskje senere i kveld)
+>
+>      
+>
+>     Nikolaj: Har du kommet noen vei med ? lage en oversikt over dem vi
+>     n? skal kontakte? Viktig at vi har en ?pen liste p? det, s? vi
+>     andre ser hvem som kontakter (duimt hvis et firma f?r dette
+>     materialet fra to av oss).
+>
+>      
+>
+>     Rainer: Kan du kontakte Nokia og diskuterer om de er interessert i
+>     ? g? inn som sponsor (det kan ikke jeg skj?nne at de ikke skulle
+>     v?re interessert i:-) Husk Icecom og Plenware ogs?!
+>
+>      
+>
+>     Morten: Jeg har sendt dokumentene til S?ren i IBM (vedr.
+>     Eurocities), men ikke til Eddie. Du gj?r det (det er jo det Jen og
+>     meg avtalte med ham)
+>
+>      
+>
+>     Jeg er p? en stor IT-konferanse p? S?rlandet i regi av KS, har
+>     nettopp presentert det norske forslaget til Nasjonalt
+>     kompetansesenter for fri programvare. Siden vedlegg 1 i forslaget
+>     omhandler IP-telefoniprosjektet (som et eksempel p? et kompetans-
+>     og leverand?rutviklingsprosjekt) fikk jeg ogs? sagt en del om det.
+>
+>      
+>
+>     Hilsen
+>
+>     Bj?rn
+>
+
+
+-- 
+Morten Kj?rsgaard
+Managing Director
+
+Magenta ApS
+Studiestr?de 14, 1.
+DK-1455 K?benhavn K
+
+t  +45 3336 9696
+d  +45 3336 9690
+m  +45 2683 3471
+f  +45 3393 4199
+		
+w  www.magenta-aps.dk
+e  mortenk at magenta-aps.dk
+
+
+
+
+From arne.enes at ella.no  Mon Jun 12 13:12:49 2006
+From: arne.enes at ella.no (Arne Martin Enes)
+Date: Mon, 12 Jun 2006 13:12:49 +0200
+Subject: SV: [Hussentral-developer] Hva skal barnet hete?
+In-Reply-To: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+Message-ID: <901EF07474352B4687748ADCF6560C3802C7795A@exsrv.ENITSOR.ELLA.NO>
+
+Hei alle!
+ 
+Jeg st?tter forslaget om ? finne et helt nytt navn. Vi st?r da friere til ? gj?re hva vi vil siden, og vi kan heller v?re s? dyktige i det vi gj?r at det er andre som ?nsker ? henge seg p? oss. Det finnes sikkert mange artige bokstavkombinasjoner vi kan finne, og vi kan bruke noen minutter p? m?tet i Drammen p? onsdag til ? samle oss om noe. S? p?s p? med ideer! Gjerne noe som ikke har v?rt brukt f?r, men som inneholder en kobling mot Open Source (Med OS menes vel ogs? Operativsystem), Free License - eller noe. 
+ 
+Konkret forslag: OSX (Open Source Xchange) Kan f.eks ogs? v?re OSX.change, OSX.Entreprise, OSX.smb, eller en annen kombinasjon...
+ 
+Med vennlig hilsen
+ 
+ 
+Arne M Enes
+?lla Kommunikasjon AS
+Mobil: 900 34 040
+E.post: arne.enes at ella.no
+
+________________________________
+
+Fra: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] P? vegne av Bj?rn Venn
+Sendt: 12. juni 2006 10:14
+Til: hussentral-developer at lists.berlios.de
+Emne: [Hussentral-developer] Hva skal barnet hete?
+
+
+
+Hei! 
+
+Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/ <http://yate.null.ro/> )
+
+Jeg ser for meg f?lgende alternativer: 
+
+1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+
+Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+
+Hva mener dere andre? 
+
+Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+--Bj?rn 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/10691b05/attachment.html>
+
+From bjorn.venn at bfk.no  Mon Jun 12 14:32:19 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Mon, 12 Jun 2006 14:32:19 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?Innspill_til_navn_p=E5_prosjektet/produktet?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D6FD@vfksr035.login.top.no>
+
+Forslagene til hva vi skal kalle prosjektet (og l?sningen; to ting av samme sak) svirrer n? rundt, og det er bra!
+
+Noen forslag benytter noe med Open og/eller Source i navnet.
+
+Jeg er usikker p? i hvor sterk grad vi skal "flagge" det.
+
+Ericssons MX One og Ciscos Call Manager kj?rer begge p? Open Source plattform (Linux), men det gjenspeiles ikke i navnet. De gj?r i noen settinger et poeng av at l?sningen kj?rer p? Linux, mens i andre settinger gj?r de ikke noe poeng ut av det.
+
+Vi, dvs. dere som skal selge l?sningen i ettertid, er opptatt av ? f? solgt l?sningen og deres tjenester. I visse settinger er det helt irrelevant at l?sningen er basert p? fri prg.vare, og i visse settinger kanskje til og med et hinder for ? f? solgt l?sningen. Det viktigste er at l?sningen framst?r som funksjonsrik, driftssikker og konkurransedyktig.
+
+Som Arne M. Enes skriver; vi tar en runde p? det p? m?tet den 14. Til dere som ikke kan komme p? m?tet: Kom med forslag!
+
+Hilsen
+Bj?rn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/2c5bdd8c/attachment.html>
+
+From bjorn.venn at bfk.no  Tue Jun 13 09:30:05 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Tue, 13 Jun 2006 09:30:05 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?F=E5r_du_ikke_sendt_ut_meldinger_via_hussentral-develope?=
+ =?iso-8859-1?Q?r=40lists=2Eberlios=2Ede=3F?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D709@vfksr035.login.top.no>
+
+Flere har kontaktet meg og sier at deres e-post til hussentral-developer at lists.berlios.de ikke n?r fram.
+
+Jeg sjekker.
+
+--Bj?rn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060613/cd065a8b/attachment.html>
+
+From Roald.Aamodt at kvinesdal.kommune.no  Mon Jun 12 11:02:20 2006
+From: Roald.Aamodt at kvinesdal.kommune.no (Roald Aamodt)
+Date: Mon, 12 Jun 2006 11:02:20 +0200
+Subject: SV: [Hussentral-developer] Hva skal barnet hete?
+Message-ID: <1ACE7CB2031939438E1A264904CFA3874A83E0@kvdexch01.kvi.ddd.intern>
+
+ 
+
+Hva med 
+
+Open-phone at work
+
+ 
+
+ 
+
+ 
+
+ 
+
+________________________________
+
+Fra: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] P? vegne av Bj?rn Venn
+Sendt: 12.06.2006 10:14
+Til: hussentral-developer at lists.berlios.de
+Emne: [Hussentral-developer] Hva skal barnet hete?
+
+ 
+
+Hei! 
+
+Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/ <http://yate.null.ro/> )
+
+Jeg ser for meg f?lgende alternativer: 
+
+1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+
+Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+ 
+
+Hva mener dere andre? 
+
+Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+--Bj?rn 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/3b9a79af/attachment.html>
+
+From Rainer.Lytz at puv.fi  Mon Jun 12 11:32:25 2006
+From: Rainer.Lytz at puv.fi (Lytz, Rainer)
+Date: Mon, 12 Jun 2006 12:32:25 +0300
+Subject: [Hussentral-developer] (no subject)
+Message-ID: <4CE9663B9A644A4A8590983ED6131BC3556248@exhdb.ad.puv.fi>
+
+Hej p? er!
+
+ 
+
+Jag vill uppmana er att titta p? www.ekiga.org <http://www.ekiga.org/>    
+
+D?r har Ni svaret p? m?nga av era problem.  Den ansvariga programmeraren Damien kommer upp fr?n Holland 5.10.2006 till seminariet i Vasa.  Ekiga kan redan idag l?sa de flesta av era ?nskem?l som Videokonferenser mm.  Redan idag kan man ringa ut fr?n EKIGA till bordstelefoner i m?nga EU-l?nder.
+
+ 
+
+Ekiga (formely known as GnomeMeeting) is an open source VoIP and video conferencing application for GNOME. Ekiga uses both the H.323 and SIP protocols. It supports many audio and video codecs, and is interoperable with other SIP compliant software and also with Microsoft NetMeeting.
+
+ 
+
+ 
+
+Rainer Lytz,  Project Manager
+
+Vaasa Polytechnic 
+
+Research and Business Services
+
+Raastuvankatu 29
+
+65100 Vaasa
+
+Finland
+
+www.puv.fi <blocked::http://www.puv.fi/> 
+
+rainer.lytz at puv.fi <blocked::mailto:rainer.lytz at puv.fi> 
+
+www.bios.fi <http://www.bios.fi/> 
+
+tel. +358-40-8412805
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/29f97d0c/attachment.html>
+
+From Rainer.Lytz at puv.fi  Mon Jun 12 13:30:04 2006
+From: Rainer.Lytz at puv.fi (Lytz, Rainer)
+Date: Mon, 12 Jun 2006 14:30:04 +0300
+Subject: [Hussentral-developer] (no subject)
+Message-ID: <4CE9663B9A644A4A8590983ED6131BC355626A@exhdb.ad.puv.fi>
+
+Hej p? er alla.
+
+ 
+
+Jag ber er bekanta er med www.ekiga.org <http://www.ekiga.org/>   Huvudansvariga programmerare Damien kommer till Vasa 5.10.2006.  EKIGA + Asterisk har svaret p? de flesta av era problem idag inom VOIP projektet. Det g?r att ringa fr?n Ekiga till bordstelefoner redan idag. Dessutom finns det fungerande Videokonferenssystem med upp till 100 samtidiga konferensdeltagare...
+
+ 
+
+- Ekiga (formely known as GnomeMeeting) is an open source VoIP and video conferencing application for GNOME. Ekiga uses both the H.323 and SIP protocols. It supports many audio and video codecs, and is interoperable with other SIP compliant software and also with Microsoft NetMeeting.
+
+ 
+
+Rainer Lytz,  Project Manager
+
+Vaasa Polytechnic 
+
+Research and Business Services
+
+Raastuvankatu 29
+
+65100 Vaasa
+
+Finland
+
+www.puv.fi <blocked::http://www.puv.fi/> 
+
+rainer.lytz at puv.fi <blocked::mailto:rainer.lytz at puv.fi> 
+
+www.bios.fi <http://www.bios.fi/> 
+
+tel. +358-40-8412805
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/d84faf6b/attachment.html>
+
+From Per.Gustavsen at hibu.no  Mon Jun 12 14:08:09 2006
+From: Per.Gustavsen at hibu.no (Per Gustavsen)
+Date: Mon, 12 Jun 2006 14:08:09 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+Message-ID: <AAC0E77CE67F534FA767252630E619CE010FF82D@srka04.kongans.hibu.no>
+
+Er ikke selv aktiv i dette prosjektet, men som deltager i arbeidsgruppen for ? etablere nasjonalt senter for fri programvare f?lger jeg interessant med :-)
+
+ 
+
+H?per jeg kan f? lov til ? bidra med et innspill i navnediskusjonen:
+
+Mitt ydmyke forslag er: VoiceToAll
+
+(.com og .org domener er ledig. Kan ogs? spilles p? i form av logo/design: V2All, V2@, Voice2@, Voice2All osv..)
+
+ 
+
+Eller kanskje disse: 
+
+World Wide Voice (wwv) ?
+
+Voice To The People (vttp) ?
+
+PhoneHome ? (Har dere sett ET? - logoen kunne jo v?re en pingvin med r?d pekefinger som ringer hjem :-)
+
+ 
+
+ 
+
+Dette var mitt bidrag i navnediskusjonen :-)
+
+ 
+
+Lykke til !
+
+Mvh
+Per Gustavsen
+
+Prosjektleder HiBu Innovasjon/DRIV inkubator
+
+H?gskolen i Buskerud
+
+Tlf: 32 86 95 48
+
+Mob: 40 23 10 88
+
+ 
+
+________________________________
+
+From: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] On Behalf Of Arne Martin Enes
+Sent: 12. juni 2006 13:13
+To: hussentral-developer at lists.berlios.de
+Subject: SV: [Hussentral-developer] Hva skal barnet hete?
+
+ 
+
+Hei alle!
+
+ 
+
+Jeg st?tter forslaget om ? finne et helt nytt navn. Vi st?r da friere til ? gj?re hva vi vil siden, og vi kan heller v?re s? dyktige i det vi gj?r at det er andre som ?nsker ? henge seg p? oss. Det finnes sikkert mange artige bokstavkombinasjoner vi kan finne, og vi kan bruke noen minutter p? m?tet i Drammen p? onsdag til ? samle oss om noe. S? p?s p? med ideer! Gjerne noe som ikke har v?rt brukt f?r, men som inneholder en kobling mot Open Source (Med OS menes vel ogs? Operativsystem), Free License - eller noe. 
+
+ 
+
+Konkret forslag: OSX (Open Source Xchange) Kan f.eks ogs? v?re OSX.change, OSX.Entreprise, OSX.smb, eller en annen kombinasjon...
+
+ 
+
+Med vennlig hilsen
+
+ 
+
+ 
+
+Arne M Enes
+
+?lla Kommunikasjon AS
+
+Mobil: 900 34 040
+
+E.post: arne.enes at ella.no
+
+ 
+
+________________________________
+
+Fra: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] P? vegne av Bj?rn Venn
+Sendt: 12. juni 2006 10:14
+Til: hussentral-developer at lists.berlios.de
+Emne: [Hussentral-developer] Hva skal barnet hete?
+
+Hei! 
+
+Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/ <http://yate.null.ro/> )
+
+Jeg ser for meg f?lgende alternativer: 
+
+1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+
+Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+ 
+
+Hva mener dere andre? 
+
+Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+--Bj?rn 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060612/f0fea19f/attachment.html>
+
+From Per.Gustavsen at hibu.no  Tue Jun 13 09:34:00 2006
+From: Per.Gustavsen at hibu.no (Per Gustavsen)
+Date: Tue, 13 Jun 2006 09:34:00 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+Message-ID: <AAC0E77CE67F534FA767252630E619CE010FF8B7@srka04.kongans.hibu.no>
+
+Er ikke selv aktiv i dette prosjektet, men som deltager i arbeidsgruppen for ? etablere nasjonalt senter for fri programvare f?lger jeg interessant med :-)
+
+ 
+
+H?per jeg kan f? lov til ? bidra med et innspill i navnediskusjonen:
+
+Mitt ydmyke forslag er: VoiceToAll
+
+(.com og .org domener er ledig. Kan ogs? spilles p? i form av logo/design: V2All, V2@, Voice2@, Voice2All osv..)
+
+ 
+
+Eller kanskje disse: 
+
+World Wide Voice (wwv) ?
+
+Voice To The People (vttp) ?
+
+PhoneHome ? (Har dere sett ET? - logoen kunne jo v?re en pingvin med r?d pekefinger som ringer hjem :-)
+
+ 
+
+ 
+
+Dette var mitt bidrag i navnediskusjonen :-)
+
+ 
+
+Lykke til !
+
+Mvh
+Per Gustavsen
+
+Prosjektleder HiBu Innovasjon/DRIV inkubator
+
+H?gskolen i Buskerud
+
+Tlf: 32 86 95 48
+
+Mob: 40 23 10 88
+
+ 
+
+________________________________
+
+From: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] On Behalf Of Arne Martin Enes
+Sent: 12. juni 2006 13:13
+To: hussentral-developer at lists.berlios.de
+Subject: SV: [Hussentral-developer] Hva skal barnet hete?
+
+ 
+
+Hei alle!
+
+ 
+
+Jeg st?tter forslaget om ? finne et helt nytt navn. Vi st?r da friere til ? gj?re hva vi vil siden, og vi kan heller v?re s? dyktige i det vi gj?r at det er andre som ?nsker ? henge seg p? oss. Det finnes sikkert mange artige bokstavkombinasjoner vi kan finne, og vi kan bruke noen minutter p? m?tet i Drammen p? onsdag til ? samle oss om noe. S? p?s p? med ideer! Gjerne noe som ikke har v?rt brukt f?r, men som inneholder en kobling mot Open Source (Med OS menes vel ogs? Operativsystem), Free License - eller noe. 
+
+ 
+
+Konkret forslag: OSX (Open Source Xchange) Kan f.eks ogs? v?re OSX.change, OSX.Entreprise, OSX.smb, eller en annen kombinasjon...
+
+ 
+
+Med vennlig hilsen
+
+ 
+
+ 
+
+Arne M Enes
+
+?lla Kommunikasjon AS
+
+Mobil: 900 34 040
+
+E.post: arne.enes at ella.no
+
+ 
+
+________________________________
+
+Fra: hussentral-developer-admin at berlios.de [mailto:hussentral-developer-admin at berlios.de] P? vegne av Bj?rn Venn
+Sendt: 12. juni 2006 10:14
+Til: hussentral-developer at lists.berlios.de
+Emne: [Hussentral-developer] Hva skal barnet hete?
+
+Hei! 
+
+Noen av oss har jobbet, mot Digium bl.a., for ? finne ut om vi kan kalle prosjektet/produktet v?rt med et navnt som inneholder ordet asterisk, f.eks. Asterisk at Enterprise, Asterisk at Work etc. Det vi skal gj?re er jo langt p? vei ? lage en mest mulig komplett telefonil?sning, hvor Asterisk er en viktig komponent, ?la det Asterisk at Home-prosjektet har gjort (men som er mer rettet mot privat og SMB-markedet).
+
+Tilbakemeldingene fra Digium er ikke positive, ref. e-posten fra Are. Det synes jeg er veldig synd, da mange av oss har brukt tid og krefter p? ? markedsf?re navnet Asterisk. Jeg kan ikke helt forst? hvorfor Digium ikke ?nsker ? f? markedsf?rt Asterisk-navnet.
+
+Men ved ? velge et navn som ikke inneholder ordet asterisk, s? st?r vi fors?vidt friere i forbindelse med hvilke komponenenter som til enhver tid inng?r i l?sningen. Det kan jo tenkes at det dukker opp komponenter i framtiden som er "bedre" enn Asterisk (ref. den innledende diskusjonen vi hadde om Yate, http://yate.null.ro/ <http://yate.null.ro/> )
+
+Jeg ser for meg f?lgende alternativer: 
+
+1. Kontakte TrixBox (ex. Asterisk at Home) og sp?r om de er interessert i et samarbeid. Ser da for meg en TrixBox Enterprise Edition eller noe i den retning.
+
+2. Vi finner p? et nytt navn og starter p? scratch. Dette alternativet vil i st?rre grad bli oppfattet som et europeisk initiativ som med stor sannsynlighet vil v?re en fordel i fbm framtidige EU-s?knader (om ?k.st?tte til prosjektet).
+
+Skal vi finne p? et nytt navn, s? m? vi tenke oss litt om. Dem vi skal ta opp konkurransen med heter bl.a. MX One, Alcatel 4400, Call Succsession og Call Manager. Hva med TX One? (TX: Telephony Exchange, evt. TX 100, hvis vi tror Ericsson ikke liker at vi tar "One").
+
+Eller skal vi legge mer fokus p? kommunikasjon/multimedia generelt) Hva med BCS 2010? (Business Communication Server 2010 (?ret 1010; et system for framtiden, en framtid som er her straks!). Ericsson hadde i sin tid en hussentral som het BCS 150, men jeg kan ikke se at de benytter BCS-navnet n?. De kaller det BusinessPhone n?)
+
+I fbm. EU-s?knadsarbeidet tidliger i v?res, ble det kastet franm en del navn som inneholdt ordet Gov. Det synes jeg ikke noe om. Vi skal lage en universell telefonil?sning for store og mellomstore virksomheter, ikke noe som er spesifikt for "Governments". Da har jeg mer sansen for en n?ytralt navn (type BCS 2010), og s? heller lage SMB-Edition, Enterprise Edition, Goverment-edition osv.. 
+
+ 
+
+Hva mener dere andre? 
+
+Dette haster, da jeg vil ha opp et nettsted (internasjonalt) for prosjektet ASAP (med det riktige domenenavnet). Vi m? ha dette klart i god tid f?r den europeiske prosjektsamlingen (konferansen) i Vaasa den 5. oktober.
+
+--Bj?rn 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060613/d9bab340/attachment.html>
+
+From runar at mopo.no  Tue Jun 13 11:36:41 2006
+From: runar at mopo.no (Runar Ingebrigtsen)
+Date: Tue, 13 Jun 2006 11:36:41 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+In-Reply-To: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+References: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no>
+Message-ID: <1150191401.5800.25.camel@localhost.localdomain>
+
+Hei alle,
+
+vi i mopo mener navnet m? v?re enkelt og lett ? huske. Vi ser helst at
+vi unng?r alle "Enterprise", @work og andre kompliserende uttrykk i
+navnet. I verste fall kan vi legge til PBX bak navnet, men dette er et
+d?rlig valg med tanke p? merkevarebygging og senere formidling.
+
+V?re forslag er:
+- Spiik (vridning av ordet "speak")
+- Sermo (Latin for folkesnakk)
+- Gjallar (som i gjallarhornet, brukes av gudene for ? bl?se til kamp
+ved Ragnarok (mot telemonopol?))
+
+Hva gjelder domenenavn kan det meget vel legges til "-project" for ?
+kunne benytte et ellers opptatt navn. Se http://hula-project.org/
+
+-- 
+Runar Ingebrigtsen
+propell, mopo as
+
+http://runar.mopo.no | +47 971 77 229 | Boks 808, 8001 Bod?, NORWAY
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 191 bytes
+Desc: Dette er en digitalt signert meldingsdel
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060613/88a3219c/attachment.pgp>
+
+From Dag.Ove.Valsgaard at ella.no  Wed Jun 14 12:50:46 2006
+From: Dag.Ove.Valsgaard at ella.no (Dag Ove Valsgaard)
+Date: Wed, 14 Jun 2006 12:50:46 +0200
+Subject: [Hussentral-developer] Navnforslag.
+Message-ID: <901EF07474352B4687748ADCF6560C3802DAABA0@exsrv.ENITSOR.ELLA.NO>
+
+Hei,
+N? har dere jo v?rt s? aktive alle sammen og funnet p? masse artige navn, s? jeg pr?ver meg med en liten vri her fra det blide s?rland. 
+Tenkte litt p?: OSBX med ett eller annet tillegg - communication server, Voice Manager eller tilsvarende. 
+
+OSBX spiller p? b?de Open Source (OS) og PBX (BX), og med et tillegg kan du f? trykk p? det kommersielle perspektivet. 
+Vi f?r jo litt samme trykket som for eksempel MXOne.. men hva vet jeg. I alle fall et forslag. 
+
+Har ikke sjekket Whois enda, men f?r ingen ting p? www.osbx.no, com, net eller org. Da er det jo mindre sannsynlig at vi har ? gj?re med TM navn ogs?, selv om det er unektelig likt Oslo b?rs (OSX) hehe.
+
+Kos dere i det v?ret dere enn m?tte ha!
+
+
+Vennlig hilsen / Sincerely
+
+Dag Ove Valsgaard
+Technical Manager Telephony
+
+?lla Kommunikasjon AS
+Kj?ita 6
+N-4630 Kristiansand
+
+Phone: + 47 38 60 85 00
+Direct line: + 47 38 60 85 40
+Cell phone: + 47 97 00 78 32
+
+E-mail: dov at ella.no
+IM: saltesild at hotmail.com
+
+
+
+
+From Kenneth at allnet-tech.net  Wed Jun 14 12:44:08 2006
+From: Kenneth at allnet-tech.net (Kenneth at allnet-tech.net)
+Date: Wed, 14 Jun 2006 12:44:08 +0200
+Subject: [Hussentral-developer] Sammenligning av GPL og EULA
+Message-ID: <20060614104408.528B223AE52@mail.allnet-tech.net>
+
+Sjekk ut denne for presentasjon av Open Source Software og argumenter for
+dette.
+http://www.cybersource.com.au/cyber/about/comparing_the_gpl_to_eula.pdf 
+
+ 
+
+mvh
+Kenneth Wiik Andreassen
+Allnet Technologies AS
+mob: +47 98227017 
+
+
+
+From bjorn.venn at bfk.no  Wed Jun 14 16:39:35 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 14 Jun 2006 16:39:35 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?Foilene_fra_dagens_m=F8te_i_merkantil_gruppe?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D71C@vfksr035.login.top.no>
+
+http://www.asterisk.no/asterisk/content/download/497/2177/file/Prosjektmote+nr+3+140606.pdf
+
+Jeg har lagt p? litt mer tekst p? noen av foilene, slik at de som ikke var p? m?tet har en sjans til ? forst? innholdet.
+
+Jeg viste under m?tet den f?rste tekniske beskrivelsen av l?sningen. Dette dok. er ikke ferdig, Dag Ove og meg skal diskuterer det med danskene til uka. Dersom noen av dere ?nsker en kopi av det, s? ta direkte kontakt med Dag Ove (Dag.Ove.Valsgaard at ella.no), han jobber trolig med dok. i disse dager, s? da f?r dere siste versjon. Planen er ? sende dok ut p? h?ring til dere alle etter at vi har diskutert det med danskene (de har trolig mye ? bidra med).
+
+
+Hilsen
+Bj?rn
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060614/a356e6d8/attachment.html>
+
+From rita at mopo.no  Wed Jun 14 13:18:19 2006
+From: rita at mopo.no (Rita Hustad)
+Date: Wed, 14 Jun 2006 13:18:19 +0200
+Subject: [Hussentral-developer] Hussentral
+Message-ID: <1150283899.10549.1.camel@localhost.localdomain>
+
+Hei alle sammen
+
+Hvorfor ikke OSBoX 
+Rita
+
+
+
+
+From mrr at voop.no  Wed Jun 14 13:38:54 2006
+From: mrr at voop.no (Morten Reistad)
+Date: Wed, 14 Jun 2006 13:38:54 +0200
+Subject: [Hussentral-developer] Hva skal barnet hete?
+In-Reply-To: <1150191401.5800.25.camel@localhost.localdomain>
+References: <6850A1692CB5474BA1ABA38F33BBC68F64D6F4@vfksr035.login.top.no> <1150191401.5800.25.camel@localhost.localdomain>
+Message-ID: <448FF54E.8080900@voop.no>
+
+Runar Ingebrigtsen wrote:
+
+>Hei alle,
+>
+>vi i mopo mener navnet m? v?re enkelt og lett ? huske. Vi ser helst at
+>vi unng?r alle "Enterprise", @work og andre kompliserende uttrykk i
+>navnet. I verste fall kan vi legge til PBX bak navnet, men dette er et
+>d?rlig valg med tanke p? merkevarebygging og senere formidling.
+>
+>V?re forslag er:
+>- Spiik (vridning av ordet "speak")
+>- Sermo (Latin for folkesnakk)
+>- Gjallar (som i gjallarhornet, brukes av gudene for ? bl?se til kamp
+>ved Ragnarok (mot telemonopol?))
+>
+>Hva gjelder domenenavn kan det meget vel legges til "-project" for ?
+>kunne benytte et ellers opptatt navn. Se http://hula-project.org/
+>
+>  
+>
+Spiik blir veldig jappete. Gjaller er ogs? fint, men blir veldig nordisk, og
+vi leter vel etter en videre base ?
+
+Sermo er jo et flott navn, men alle domener er opptatt i sin vocativform.
+Hvis vi faktisk anvender litt latin finner vi imidlertid at b?de
+akkusativformen
+og dativ/locativ/ablativ er ledig i b?de .com, .net og .org., likeledes er
+vokativ flertall ledig.
+
+Det er jo disse formene man jo vil bruke hvis man faktisk skal anvende
+ordet. Dativ hvis vi skal referere til "samtaler med", j.f.r St. Augustine's
+ber?mte verk, eller akkusativ hvis jeg skal prate med deg. "Samtaler" er
+jo ogs? mere dekkende enn "en (implisitt enkel) samtale".
+
+Hint : sermo er ett av unntakene i 3.deklinasjon, det er maskulinum.
+
+Jeg voterer for "sermo" i vokativ flertall.
+
+-- mrr
+
+References;  "Multis sermonibus ineditis aucta et locupletata.",
+Augustine, ca 396
+                     "De recta latini graecique sermonis", Erasmus, 1528
+                     "Adagiorum chiliades tres, quae Ioannes Sartorius
+in Batavicum
+                            sermonem proprie ac eleganter convertit"
+Erasmus 1561
+
+Tolle Lege.
+
+
+
+
+
+From bjorn.venn at bfk.no  Fri Jun 16 10:17:33 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Fri, 16 Jun 2006 10:17:33 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?Neste_m=F8te_i_merkantil_gruppe_i_IP-tlf=2Eprosjektet_blir?=
+ =?iso-8859-1?Q?_den_15=2E8=2E=2E=2E?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D72C@vfksr035.login.top.no>
+
+... kl 10-14 hos Linpro (p? Storo).
+
+Dag Ove og meg drar til ?rhus p? s?ndag for ? diskuterer l?sningsforslaget med dem. M?let er ? f? lagt ut det f?rste utkastet fredag om en uke (p? www.asterisk.no).
+
+
+--Bj?rn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060616/571bda5e/attachment.html>
+
+From bjorn.venn at bfk.no  Fri Jun 23 15:06:47 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Fri, 23 Jun 2006 15:06:47 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?Oppsummering_fra_m=F8tet_i_=C5rhus_20=2E_juni?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D754@vfksr035.login.top.no>
+
+Hei!
+
+P? www.asterisk.no ligger i l?pet av fredagen et referat fra m?tet Dag Ove og undertegnede hadde med v?re venner i Danmark den 20.6. Vi jobbet ogs? sammen den 19., men da for det meste med tekniske problemstillinger. Referat i stikkordsform ble skrevet, men mest av interesse for Dag Ove som har tatt dette inn i den tekniske l?sningsbeskrivelsen som han sendte ut til medlemmene i teknisk gruppe i g?r.
+
+KORTVERSJONEN:
+
+* Region Midtjylland blir med i prosjektet. Dette er SV?RT (=meget) gledelig, da de fra 1.1.07 blir Danmarks st?rste region. De har hatt en Asterisk-installasjon i drift i ca to ?r. De har Asterisk-kompetanse inhouse, og har mye ? bidra med.
+ 
+* Prosjektet har, endelig, f?tt et navn: EUX 2010 (EUX: Enterprise Universal eXchange). Det kan vi takke Jens Kjellerup for!!  Domener, inkl. bare eux, blir tatt ut av Region Midtjylland. Arbeidet med ? f? opp et internasjonalt nettsted p?begynnes rett etter ferien (august).
+
+* Vi har laget en formell organisasjon for EUX, som vil f? postadresse K?benhavn. Styret skal velges p? prosjektsamlingen i Vaasa den 5.10, inntil videre vil Jens Kjellerup fra Region Midtjylland, Morten Kj?rsgaard og undertegnede sitte i styret (og Rainer Lytz fra Finland, dersom han ?nsker det). Sekretariatsfunksjonen vil bli ivaretatt av Morten Kj?rsgaard inntil videre. P? sikt (ett ?rs tid) ser vi for oss ? ansette en dedikert medarbeider (som europeiisk koordinator). Vi vil p? samlingen i Vaasa presentere alt dette n?rmere, inkludert forslag til vedtekter m.m.
+
+* Alt dette er gjort for ? styrke v?r sjanse for ? f? EU- og sponsormidler.
+
+* Minner om neste m?te i merkantil gruppe den 15.8 kl 10-14 hos Linpro. Da kommer ogs? danskene, s? det er en fin anledning til ? hilse p? dem (Hadde v?rt hyggelig om dere fra Sverige og Finland ogs? kan komme). Dersom v?ret holder, s? er dere velkommen til ? bli med meg og danskene ? spise middag p? Revierhavnen Kro (http://www.revierhavnenkro.com/). Vi satser p? ? ta ferga fra Vippetangen kl 18.05.
+
+* Vi n?rmer oss formell oppstart av prosjektet, og f?rste fase er utviklingsfasen. Vi har gjennom det siste ?ret diskutert hvordan vi skal gj?re det. Et interessant innspill i s? m?te er kommet fra Cybercom Group (John Kolsvik). De har en Joint Venture-selskap sammen med indiske Datamatics (ca 2.000 ansatte, egen Telecom-divisjon, www.datamatics.com). Undertegnede hadde m?te med dem i g?r, inne hos Cybercom p? Sk?yen, sammen med John. Det var MEGET interessant. Vi ble enige om ? invitere dem til Oslo igjen, den 14.8 kl 14-18, alts? dagen f?r merkantilt m?te.
+
+De vil da presentere et opplegg for hvordan de kan levere det vi trenger, alt lisensiert som fri programvare (open source). Vi er flere som ivrer etter ? komme i gang, spesielt rundt dette med sentralbord. De er sv?rt intetressert i prosjektet v?rt, og antydet tidsestimater som ligger innenfor det jeg tror er realistisk for prosjektet v?rt. Datamatics kan ogs? p?ta seg support og vedlikehold.
+
+
+Til de av dere som har mottatt Dag Oves tekniske dokument:
+Husk og les og kommenter i l?pet av sommeren! 
+
+?nsker dere alle en god sommer og ser fram til h?sten. Den tror jeg blir MEGET spennende for oss alle!
+
+N? tar jeg ferie!
+
+Beste hilsener
+Bj?rn Venn
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060623/facb70df/attachment.html>
+

@@ -1,0 +1,270 @@
+From bjorn.venn at bfk.no  Mon Aug  7 14:57:42 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Mon, 7 Aug 2006 14:57:42 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?Minner_om_m=F8tet_i_merkant?=
+	=?iso-8859-1?q?il_gruppe=2C_15=2E8_kl_10-14_hos_Linpro?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D79F@vfksr035.login.top.no>
+
+Hei og forh?pentligvis vel overst?tt ferie!
+
+Minner om m?te i merkantil gruppe 15. august kl 10-14 hos Linpro.
+
+Agenda:
+* Gjennomgang av forslaget til teknisk l?sning (Technical Requirement Spesification) 
+* Referat fra arbeidsm?tet i ?rhus 19.-21. juni (se www.asterisk.no)
+* Status ?konomi, veien videre, h?stens aktiviteter
+Morten Kj?rsgaard og Jens Kjellerup fra Danmark og Rainer Lytz fra Finland vil delta p? m?tet.
+Vel m?tt!
+Hilsen
+Bj?rn Venn
+
+Bli med og skap europeisk telehistorie - bli med og skap Enterprise Unified eXchange 2010 - EUX 2010!
+Enterprise Unified eXchange 2010 - the Open Source Enterprise PABX Solution based on Asterisk
+
+
+Dersom du ikke vil abonnere p? hussentral-developer at lists.berlios.de: 
+http://lists.berlios.de/mailman/listinfo/hussentral-developer
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060807/292351c5/attachment.html>
+
+From bjorn.venn at bfk.no  Wed Aug 23 11:16:06 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 23 Aug 2006 11:16:06 +0200
+Subject: [Hussentral-developer] EUX2010 prosjektinformasjon nr 2, august 2006
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D82C@vfksr035.login.top.no>
+
+Hei,
+
+Vedlagt et lite nyhetsbrev for det norske EUX2010-prosjektet ("IP-telefoniprosjektet").
+
+Neste m?te i merkantil gruppe blir den 28. september kl 10-14 hos Cybercomm, Lysaker (veibeskrivelse p? siste side i nyhetsbrevet).
+
+Innen den tid har vi presentert prosjektet p? Nortibs h?stseminar p? Lillehammer (14.-15. sept) og p? EuroOSCON i Brussel (18.-21.sept.)
+M?let er ? f? med flere, b?de fra kunde- og leverand?rsiden.
+
+
+Hilsen
+Bj?rn Venn
+Norsk koordinator for
+eux2010-prosjektet <<Prosjektinformasjon nr 2 - 20. august 2006.pdf>> 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060823/98040e22/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Prosjektinformasjon nr 2 - 20. august 2006.pdf
+Type: application/octet-stream
+Size: 84184 bytes
+Desc: Prosjektinformasjon nr 2 - 20. august 2006.pdf
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060823/98040e22/attachment.obj>
+
+From bjorn.venn at bfk.no  Wed Aug 23 13:54:44 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 23 Aug 2006 13:54:44 +0200
+Subject: [Hussentral-developer] HASTER: Bidrag til brosjyren om
+	EUX-prosjektet
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D83B@vfksr035.login.top.no>
+
+Til alle dere som ?nsker ? v?re med, p? en eller annen m?te, i EUX-prosjektet.
+
+Som dere vet, s? jobber vi med en engelsk brosjyre om EUX-prosjektet. Her ?nsker jeg ? presentere de deltagende selskapene.
+
+Jeg antar at ditt selskap ikke har noe imot ? bli promotert i Europa p? denne m?ten. Men for ? komme med, s? m? du/dere sende meg 
+
+1. Logo i h?yoppl?selig format (for trykking)
+2. En engelsk tekst som beskriver kort hvem dere er og hvorfor ditt firma ?nsker ? bli med i prosjektet.
+
+Jeg forbeholder meg retten til ? endre teksten, men vil i s? fall sende den tilbake slik at dere kan godkjenne den.
+
+Jeg ?nsker meg tekster som inneholder uttalelser av denne typen:
+
+"V?rt selskap har jobbet med kommersielle VoIP-l?sninger fra flere av de etablerte akt?rene i over seks ?r. I 2003 oppdaget vi VoIP-programvaren Asterisk. Denne benytter vi stadig oftere i skreddersydde telefonil?sninger for v?re kunder. St?rre virksomheter ettersp?r i st?rre grad en anerkjent og utbredt l?sning. Derfor har vi valgt ? bli med i EUX-prosjektet, og har stor tro p? at vi sammen skal klare ? utvikle en felles, IP-kommunikasjonsl?sning under et felles merkenavn. Vi tror p? et europeisk samarbeid"
+
+eller
+
+"Vi er en regional teleoperat?r i Norge som har benyttet fri programvare i v?re telefonil?sninger i ca fem ?r. V?r erfaring er at l?sningene basert p? fri programvare er sv?rt stabile og gir oss en bedre inntjening enn dersom vi hadde brukt propriet?re l?sninger fra de etablerte akt?rene. Vi betjener i dag x antall kunder p? v?r telefonil?sning som for det meste er basert p? fri proghtramvare (Asterisk, xyz, og abc). Men st?rre virksomheter krever anerkjente l?sninger, installert i sin egen organisasjon. Vi tror p? samarbeidet om ? utvikle en slik l?sning"
+
+Min tekst blir noe s?nt som dette:
+"Buskerud fylkeskommune har ca 9.000 potensielle telefonibrukere. En propriet?r VoIP-l?sning ville ha kostet oss sv?rt mye. Derfor satte vi igang et pilotprosjekt for ? teste ut om hussentralprogramvaren Asterisk kunne dekke v?re behov. Det viste seg at Asterisk fungerte utmerket; stabilt og driftssikkert. Men dessverre var det en del funksjonalitet vi savnet. Vi tror at ogs? andre st?rre virksomheter, private s?vel som offentlige, vil komme til den samme erkjennelsen. Derfor har vi valgt ? bli med i EUX-prosjektet. Vi er opptatt av ? redusere utviklingskostnadene, det kan vi gj?re ved at flest mulig bidrar i prosjektet, og vi er opptatt av at l?sningen f?r en stor utbredelse. Derfor ?nsker vi at flest mulig leverand?rer i Europa tilbyr l?sningen" 
+
+
+FRIST: Mandag til uka.
+helst tekst p? engelsk, men OK p? dansk, svensk el. norsk (jeg f?r det oversatt)
+
+Hilsen
+Bj?rn
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060823/2b7a0241/attachment.html>
+
+From bjorn.venn at bfk.no  Thu Aug 24 13:40:52 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Thu, 24 Aug 2006 13:40:52 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?HASTER=3A_Foresp=F8rsel_om_?=
+	=?iso-8859-1?q?sponsing_av_IP-telefoniprosjektet_EUX2010=2E?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D857@vfksr035.login.top.no>
+
+Hei,
+
+I neste uke g?r brosjyren, det tekniske dokumentet (Technical Requirement Specification) og invitasjonen til prosjektsamlingen i Finland i trykken. Tidsplanen er framskyndet, pga NORTIBs h?stseminar den 14.-15. september. Beklager derfor den korte fristen.
+
+Jeg har laget et opplegg for "EUX Silver Sponsors":
+
+* Logo og 2-3-setningers med tekst i "sponsorboble" nederst i hj?rnet p? brosjyra, samt en fritt disponerbar 1/2  A4 side, 4-farger.
+Varighet: 1 ?r ( Det vil bli laget en ny engelsk-spr?klig brosjyre neste ?r. Dere vil komme med i den ogs? (med mulighet til ? endre innholdet)
+* Logo og web-adresse, samt teksten "Vi st?tter EUX-prosjektet" nederst p? side i det tekniske dokumentet (evt. i en "sponsorboble")
+* Logo og web-adresse, under overskriften "Vi st?tter EUX-prosjektet" p? inviotasjonen til prosjektsamlingen i Vaasa den 5. okt.
+* Gratis stand, deltagelse og mulighet til ? holde foredrag p? prosjektsamlingen i Vaasa den 5. og 6. oktober (den 6. er det en stor open source-konferanse p? samme sted; se www.bios.fi.
+* Logo med p? lysark (slider) som presenterer prosjektet, varighet: ett ?r.
+
+Brosjyren skal distribueres p? NORTIBs h?stseminar den 14.-15. sept (hvor undertegnede ogs? skal lede en sesjon om telefonil?sninger basert p? open source og holde foredrag, se www.nortib.no), EuroOSCON 2006 i Brussel den 18.-21. sept (http://conferences.oreillynet.com/euos2006/), Linux Open Source Forum 2006 i Stockholm den 25.-26 oktober, (http://www.conductive.se/linux2006/index.htm), og mange kommende konferanser/seminarer utover h?sten/vinteren.
+
+Pris: 100.000,-
+
+Hvis dette er av interesse, kontakt undertegnede ASAP for ? avklare praktiske detaljer. Dette haster, brosjyra m? i trykken f?rstkommende onsdag!!
+
+Jeg har et forel?big utkast til begge trykksakene, men pga sperrer p? berlios.de-serveren f?r jeg ikke lagt dem ved her. Sendes p? foresp?rsel.
+
+
+Med vennlig hilsen
+
+Bj?rn Venn
+Spesialkonsulent
+IKT-seksjonen
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Buskerud fylkeskommune
+Fylkeshuset
+3020 Drammen
+
+www.buskerud-f.kommune.no 
+(www.bfk.no)
+
+tlf. sentralbord.:             32 80 85 00
+tlf.direkte (analog):      32 80 85 44
+mob.tlf.: 	           99 28 58 50
+fax:	                           32 80 85 49
+e-post: bjorn.venn at bfk.no
+---------------------------------------------------------------------------------
+Buskerud fylkeskommune er med i 
+Regionsamarbeidet Buskerud Telemark Vestfold (BTV)
+Bes?k oss p? www.btvregion.no
+----------------------------------------------------------------------------------
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060824/fc4d529d/attachment.html>
+
+From bjorn.venn at bfk.no  Thu Aug 24 13:34:24 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Thu, 24 Aug 2006 13:34:24 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?HASTER=3A_Foresp=F8rsel_om_?=
+	=?iso-8859-1?q?sponsing_av_IP-telefoni-prosjektet_EUX2010=2E?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D856@vfksr035.login.top.no>
+
+Hei,
+
+I neste uke g?r brosjyren og invitasjonen til prosjektsamlingen i Finland i trykken.
+
+Jeg har laget et opplegg for "silver sponsors":
+
+* Logo og 2-3-setningers med tekst i "sponsorboble" nederst i hj?rnet p? brosjyra, samt en fritt disponerbar 1/2  A4 side, 4-farger.
+Varighet: 1 ?r ( Det vil bli laget en ny engelsk-spr?klig brosjyre neste ?r. Dere vil komme med i den ogs? (med mulighet til ? endre innholdet)
+* Logo og web-adresse, samt teksten "Vi st?tter EUX-prosjektet" nederst p? side i det tekniske dokumentet (evt. i en "sponsorboble")
+* Logo og web-adresse, under overskriften "Vi st?tter EUX-prosjektet" p? inviotasjonen til prosjektsamlingen i Vaasa den 5. okt.
+* Gratis stand, deltagelse og mulighet til ? holde foredrag p? prosjektsamlingen i Vaasa den 5. og 6. oktober (den 6. er det en stor open source-konferanse p? samme sted; se www.bios.fi.
+* Logo med p? lysark (slider) som presenterer prosjektet, varighet: ett ?r.
+
+Brosjyren skal distribueres p? NORTIBs h?stseminar den 14.-15. sept (hvor undertegnede ogs? skal lede en sesjon om telefonil?sninger basert p? open source og holde foredrag, se www.nortib.no), EuroOSCON 2006 i Brussel den 18.-21. sept (http://conferences.oreillynet.com/euos2006/), Linux Open Source Forum 2006 i Stockholm den 25.-26 oktober, (http://www.conductive.se/linux2006/index.htm), og mange kommende konferanser/seminarer utover h?sten/vinteren.
+
+Pris: 100.000,-
+
+Hvis dette er av interesse, kontakt undertegnede ASAP for ? avklare praktiske detaljer. Dette haster, brosjyra m? i trykken f?rstkommende onsdag!!
+
+Hilsen
+Bj?rn Venn
+
+Vedlagt forel?big utkast til brosjyra og det tekniske dokumentet. Merk at all tekst ikke er helt ferdig. Korrektur er ikke gjort.
+
+
+PS: Ref. g?rsdagens e-post: Alle vil som vil f?r sin logo og 2-3 setninger med i brosjyra gratis (men da p? en felles "samle-side", ref. g?rsdagens e-post)
+ <<Brochure-The EUX2010 project.pdf>>  <<Ip tekn brosjyre.pdf>> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060824/a2de1d00/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Brochure-The EUX2010 project.pdf
+Type: application/octet-stream
+Size: 790926 bytes
+Desc: Brochure-The EUX2010 project.pdf
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060824/a2de1d00/attachment.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Ip tekn brosjyre.pdf
+Type: application/octet-stream
+Size: 177542 bytes
+Desc: Ip tekn brosjyre.pdf
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060824/a2de1d00/attachment-0001.obj>
+
+From bjorn.venn at bfk.no  Tue Aug 29 09:56:39 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Tue, 29 Aug 2006 09:56:39 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?SISTE_FRIST_IDAG=3A_F=E5_me?=
+	=?iso-8859-1?q?d_din_firmapresentasjon_og_logo_i_EUX-IP-telefonibr?=
+	=?iso-8859-1?q?osjyra!?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D89D@vfksr035.login.top.no>
+
+Hei,
+
+Minner om at det idag er siste frist for ? f? med din 2-3-4 setningers firmapresentasjon, samt logo, HELT GRATIS i den engelske brosjyren om Asterisk/IP-telefoniprosjektet (EUX2010).
+
+ELLER
+
+si jatakk til ? bli SILVER-SPONSOR (st?rre og mer omfattende profilering, se e-post sendt ut fra undertergene i forrige uke).
+
+To selskaper er pr idag silver-sponsors, 6 andre blir f?rt opp med logo og en 2-3-4 setninger.
+
+
+
+
+Med vennlig hilsen
+
+Bj?rn Venn
+Spesialkonsulent
+IKT-seksjonen
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Buskerud fylkeskommune
+Fylkeshuset
+3020 Drammen
+
+www.buskerud-f.kommune.no 
+(www.bfk.no)
+
+tlf. sentralbord.:             32 80 85 00
+tlf.direkte (analog):      32 80 85 44
+tlf.direkte (IP-telefon):  31 30 23 27
+mob.tlf.: 	           99 28 58 50
+fax:	                            32 80 85 49
+e-post: bjorn.venn at bfk.no
+---------------------------------------------------------------------------------
+Buskerud fylkeskommune er med i 
+Regionsamarbeidet Buskerud Telemark Vestfold (BTV)
+Bes?k oss p? www.btvregion.no
+----------------------------------------------------------------------------------
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060829/652ac6e1/attachment.html>
+

@@ -1,0 +1,436 @@
+From areast at cbktele.com  Tue Apr 18 11:25:07 2006
+From: areast at cbktele.com (Are)
+Date: Tue, 18 Apr 2006 11:25:07 +0200
+Subject: [Hussentral-developer] Test Posting
+Message-ID: <4444B073.60801@cbktele.com>
+
+Dette er en test av Hussentral Email Liste
+
+Are Casilla
+CBK Communications as / CBK Tele as
+Open Source VoIP/Telephony Specialists
++47 2156 5950 (Direkte/Directly)
+
+
+
+From areast at cbktele.com  Tue Apr 18 11:38:07 2006
+From: areast at cbktele.com (Are)
+Date: Tue, 18 Apr 2006 11:38:07 +0200
+Subject: [Hussentral-developer] test 2
+Message-ID: <4444B37F.6090807@cbktele.com>
+
+Dette er mailling List Test 2
+
+Are Casilla
+CBK Communications as / CBK Tele as
+Open Source VoIP/Telephony Specialists
++47 2156 5950 (Direkte/Directly)
+http://cbktele.com
+
+
+
+
+From areast at cbktele.com  Tue Apr 18 11:41:28 2006
+From: areast at cbktele.com (Are)
+Date: Tue, 18 Apr 2006 11:41:28 +0200
+Subject: [Hussentral-developer] Test 3
+Message-ID: <4444B448.8070708@cbktele.com>
+
+Dette er Test 3
+
+
+From areast at cbktele.com  Tue Apr 18 20:10:20 2006
+From: areast at cbktele.com (Are)
+Date: Tue, 18 Apr 2006 20:10:20 +0200
+Subject: [Hussentral-developer] Hussentral =?windows-1252?Q?L=F8sning_Basert_p=E5_Asterisk?=
+Message-ID: <44452B8C.8060602@cbktele.com>
+
+Hei alle sammen.
+
+N? er p?sken over og det er p? tide vi f?r litt fres p? v?rt Asterisk 
+Prosjekt.
+
+Basert p? v?re diskusjoner og rapporten fra Dag Ove s? tror jeg det er 
+bred enighet om f?lgende
+
+Open Source Lisens blir GPL
+V?r referanse CD utvikles p? Debian OS.
+Vi Bruker MySQL som Database for ? lagre konfigurasjons data.
+Vi bruker Asterisk som PBX l?sning.
+Vi bruker Asterisk for voicemail.
+Systemet m? ha Web basert brukergrensesnitt for b?de brukere og for 
+administrator.
+Vi trenger en Sentralbord l?sning
+
+Dette er en sterk forenkling men jeg er tilhenger av KISS ? "Keep it 
+Simple, Stupid"
+
+Jeg f?ler helt klart et behov for ? komme over dette element?re niv?et 
+og g? videre med de virkelige utfordringene.
+
+Vi trenger en Prosjekt ?Roadmap? men jeg er i tvil om den skal skives p? 
+Norsk eller Engelsk. Personlig foretrekker jeg Engelsk siden dette helt 
+klart har internasjonal interesse. Har dere noen kommentarer til dette?
+
+Husk at ? bidra til et hussentral prosjekt basert p? Asterisk er ikke 
+bare meningsfullt fordi det er utvikling av programvare som har flere 
+tusen potensielle brukere bare i Norge. Det kan  ogs? spare samfunnet 
+for millioner av skattekroner. S? dette er spennende, utfordrende og 
+l?rerikt.
+
+Som en enkelt start s? har vi laget en NY CD for prosjektet. Det er en 
+Hussentral l?sning som virker i dag basert p? Asterisk. Du kan hente ned 
+en ISO fil p? http://hussentral.org. Det er en Beta Test "Proof of 
+Concept" CD som viser noen av mulighetene. Jeg regner med at den vil bli 
+sterkt forbedret med tiden. Vi har ogs? opprettet et Asterisk forum. 
+http://asterisk.cbktele.com/
+
+For ? holde orden p? alle interesserte s? har vi opprettet en E-mail 
+Liste. Du som f?r denne E-mailen er allerede medlem. Jeg foresl?r at all 
+kommunikasjon om prosjekter finner sted p? denne  listen. Dette sikrer 
+at alle f?r informasjon. Det gj?r det ogs? lett ? melde deg inn/ut av 
+listen hvis du ikke vil ha informasjon eller hvis du kjenner noen som 
+vil ha informasjon. Senere s? trenger vi to lister. En for utvikling og 
+en for den merkantile delen. Siden vi n? har veldig liten trafikk s? 
+tror jeg en liste holder.
+
+Are Casilla
+CBK Communications as / CBK Tele as
+Open Source VoIP/Telephony Specialists
++47 2156 5950 (Direkte/Directly)
+http://cbktele.com
+
+
+
+From kenneth at allnet-tech.net  Wed Apr 19 10:06:58 2006
+From: kenneth at allnet-tech.net (Kenneth Wiik Andreassen)
+Date: Wed, 19 Apr 2006 10:06:58 +0200
+Subject: [Hussentral-developer] =?Windows-1252?Q?Re:_=5BHussentral-developer=5D_Hussentral_L=F8sning_Ba?=
+ =?Windows-1252?Q?sert_p=E5_Asterisk?=
+References: <44452B8C.8060602@cbktele.com>
+Message-ID: <006901c66388$3bc24f90$2101000a@ALLNETKWA>
+
+Engelsk i utgangs punktet s? kan medlemmer/contributors oversette til sine 
+respektive spr?k ved n?dvendighet. Slik som for oss i dette prosjektet.
+
+The documentation should be written in English for non Norwegian people to 
+be able to translate to their respective native languages if it is a 
+necessity.
+
+mvh
+Kenneth Wiik Andreassen
+AllNet Technologies AS
+
+----- Original Message ----- 
+From: "Are" <areast at cbktele.com>
+To: <hussentral-developer at lists.berlios.de>
+Sent: Tuesday, April 18, 2006 8:10 PM
+Subject: [Hussentral-developer] Hussentral L?sning Basert p? Asterisk
+
+
+> Hei alle sammen.
+>
+> N? er p?sken over og det er p? tide vi f?r litt fres p? v?rt Asterisk 
+> Prosjekt.
+>
+> Basert p? v?re diskusjoner og rapporten fra Dag Ove s? tror jeg det er 
+> bred enighet om f?lgende
+>
+> Open Source Lisens blir GPL
+> V?r referanse CD utvikles p? Debian OS.
+> Vi Bruker MySQL som Database for ? lagre konfigurasjons data.
+> Vi bruker Asterisk som PBX l?sning.
+> Vi bruker Asterisk for voicemail.
+> Systemet m? ha Web basert brukergrensesnitt for b?de brukere og for 
+> administrator.
+> Vi trenger en Sentralbord l?sning
+>
+> Dette er en sterk forenkling men jeg er tilhenger av KISS ? "Keep it 
+> Simple, Stupid"
+>
+> Jeg f?ler helt klart et behov for ? komme over dette element?re niv?et og 
+> g? videre med de virkelige utfordringene.
+>
+> Vi trenger en Prosjekt ?Roadmap? men jeg er i tvil om den skal skives p? 
+> Norsk eller Engelsk. Personlig foretrekker jeg Engelsk siden dette helt 
+> klart har internasjonal interesse. Har dere noen kommentarer til dette?
+>
+> Husk at ? bidra til et hussentral prosjekt basert p? Asterisk er ikke bare 
+> meningsfullt fordi det er utvikling av programvare som har flere tusen 
+> potensielle brukere bare i Norge. Det kan  ogs? spare samfunnet for 
+> millioner av skattekroner. S? dette er spennende, utfordrende og l?rerikt.
+>
+> Som en enkelt start s? har vi laget en NY CD for prosjektet. Det er en 
+> Hussentral l?sning som virker i dag basert p? Asterisk. Du kan hente ned 
+> en ISO fil p? http://hussentral.org. Det er en Beta Test "Proof of 
+> Concept" CD som viser noen av mulighetene. Jeg regner med at den vil bli 
+> sterkt forbedret med tiden. Vi har ogs? opprettet et Asterisk forum. 
+> http://asterisk.cbktele.com/
+>
+> For ? holde orden p? alle interesserte s? har vi opprettet en E-mail 
+> Liste. Du som f?r denne E-mailen er allerede medlem. Jeg foresl?r at all 
+> kommunikasjon om prosjekter finner sted p? denne  listen. Dette sikrer at 
+> alle f?r informasjon. Det gj?r det ogs? lett ? melde deg inn/ut av listen 
+> hvis du ikke vil ha informasjon eller hvis du kjenner noen som vil ha 
+> informasjon. Senere s? trenger vi to lister. En for utvikling og en for 
+> den merkantile delen. Siden vi n? har veldig liten trafikk s? tror jeg en 
+> liste holder.
+>
+> Are Casilla
+> CBK Communications as / CBK Tele as
+> Open Source VoIP/Telephony Specialists
+> +47 2156 5950 (Direkte/Directly)
+> http://cbktele.com
+>
+> _______________________________________________
+> http://hussentral.org
+> Hussentral-developer at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/hussentral-developer
+> 
+
+
+
+
+From mortenk at magenta-aps.dk  Wed Apr 19 10:53:23 2006
+From: mortenk at magenta-aps.dk (=?windows-1252?Q?Morten_Kj=E6rsgaard?=)
+Date: Wed, 19 Apr 2006 10:53:23 +0200
+Subject: [Hussentral-developer] =?windows-1252?Q?Re=3A_=5BHussentral-developer=5D_Re=3A_=5B?=
+ =?windows-1252?Q?Hussentral-developer=5D_Hussentral_L=F8sning_Base?=
+ =?windows-1252?Q?rt_p=E5_Asterisk?=
+In-Reply-To: <006901c66388$3bc24f90$2101000a@ALLNETKWA>
+References: <44452B8C.8060602@cbktele.com> <006901c66388$3bc24f90$2101000a@ALLNETKWA>
+Message-ID: <4445FA83.7060808@magenta-aps.dk>
+
+Hej
+
+Jeg er enig i, at vi skal holde s? meget som muligt p? engelsk (nu, hvor 
+ikke alle skriver dansk :-) )
+
+Bedste hilsner
+Morten Kj?rsgaard
+
+
+Kenneth Wiik Andreassen wrote:
+
+> Engelsk i utgangs punktet s? kan medlemmer/contributors oversette til 
+> sine respektive spr?k ved n?dvendighet. Slik som for oss i dette 
+> prosjektet.
+>
+> The documentation should be written in English for non Norwegian 
+> people to be able to translate to their respective native languages if 
+> it is a necessity.
+>
+> mvh
+> Kenneth Wiik Andreassen
+> AllNet Technologies AS
+>
+> ----- Original Message ----- From: "Are" <areast at cbktele.com>
+> To: <hussentral-developer at lists.berlios.de>
+> Sent: Tuesday, April 18, 2006 8:10 PM
+> Subject: [Hussentral-developer] Hussentral L?sning Basert p? Asterisk
+>
+>
+>> Hei alle sammen.
+>>
+>> N? er p?sken over og det er p? tide vi f?r litt fres p? v?rt Asterisk 
+>> Prosjekt.
+>>
+>> Basert p? v?re diskusjoner og rapporten fra Dag Ove s? tror jeg det 
+>> er bred enighet om f?lgende
+>>
+>> Open Source Lisens blir GPL
+>> V?r referanse CD utvikles p? Debian OS.
+>> Vi Bruker MySQL som Database for ? lagre konfigurasjons data.
+>> Vi bruker Asterisk som PBX l?sning.
+>> Vi bruker Asterisk for voicemail.
+>> Systemet m? ha Web basert brukergrensesnitt for b?de brukere og for 
+>> administrator.
+>> Vi trenger en Sentralbord l?sning
+>>
+>> Dette er en sterk forenkling men jeg er tilhenger av KISS ? "Keep it 
+>> Simple, Stupid"
+>>
+>> Jeg f?ler helt klart et behov for ? komme over dette element?re 
+>> niv?et og g? videre med de virkelige utfordringene.
+>>
+>> Vi trenger en Prosjekt ?Roadmap? men jeg er i tvil om den skal skives 
+>> p? Norsk eller Engelsk. Personlig foretrekker jeg Engelsk siden dette 
+>> helt klart har internasjonal interesse. Har dere noen kommentarer til 
+>> dette?
+>>
+>> Husk at ? bidra til et hussentral prosjekt basert p? Asterisk er ikke 
+>> bare meningsfullt fordi det er utvikling av programvare som har flere 
+>> tusen potensielle brukere bare i Norge. Det kan  ogs? spare samfunnet 
+>> for millioner av skattekroner. S? dette er spennende, utfordrende og 
+>> l?rerikt.
+>>
+>> Som en enkelt start s? har vi laget en NY CD for prosjektet. Det er 
+>> en Hussentral l?sning som virker i dag basert p? Asterisk. Du kan 
+>> hente ned en ISO fil p? http://hussentral.org. Det er en Beta Test 
+>> "Proof of Concept" CD som viser noen av mulighetene. Jeg regner med 
+>> at den vil bli sterkt forbedret med tiden. Vi har ogs? opprettet et 
+>> Asterisk forum. http://asterisk.cbktele.com/
+>>
+>> For ? holde orden p? alle interesserte s? har vi opprettet en E-mail 
+>> Liste. Du som f?r denne E-mailen er allerede medlem. Jeg foresl?r at 
+>> all kommunikasjon om prosjekter finner sted p? denne  listen. Dette 
+>> sikrer at alle f?r informasjon. Det gj?r det ogs? lett ? melde deg 
+>> inn/ut av listen hvis du ikke vil ha informasjon eller hvis du 
+>> kjenner noen som vil ha informasjon. Senere s? trenger vi to lister. 
+>> En for utvikling og en for den merkantile delen. Siden vi n? har 
+>> veldig liten trafikk s? tror jeg en liste holder.
+>>
+>> Are Casilla
+>> CBK Communications as / CBK Tele as
+>> Open Source VoIP/Telephony Specialists
+>> +47 2156 5950 (Direkte/Directly)
+>> http://cbktele.com
+>>
+>> _______________________________________________
+>> http://hussentral.org
+>> Hussentral-developer at lists.berlios.de
+>> http://lists.berlios.de/mailman/listinfo/hussentral-developer
+>>
+>
+>
+> _______________________________________________
+> http://hussentral.org
+> Hussentral-developer at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/hussentral-developer
+
+
+
+-- 
+Morten Kj?rsgaard
+Managing Director
+
+Magenta ApS
+Studiestr?de 14, 1.
+DK-1455 K?benhavn K
+
+t  +45 3336 9696
+d  +45 3336 9690
+m  +45 2683 3471
+f  +45 3393 4199
+		
+w  www.magenta-aps.dk
+e  mortenk at magenta-aps.dk
+
+
+
+
+From bjorn.venn at bfk.no  Wed Apr 19 16:59:09 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Wed, 19 Apr 2006 16:59:09 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?Status_p=E5_prosjektet_=22IP-telefonil=F8sning_basert_p=E5?=
+ =?iso-8859-1?Q?_fri_programvare=22?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D581@vfksr035.login.top.no>
+
+Til alle involverte i prosjektet (og andre som Bj?rn Venn tror kan ha interesse av dette).
+Beklager hvis du har kommet p? kopi-listen og ikke er interessert. Jeg kommer i framtiden kun til ? sende ut brev til distribusjonslista 'hussentral-developer at lists.berlios.de'):
+
+(mulig du f?r denne dobbelt opp, jeg vet ikke hvem av dere som er inkludert i den nyopprettede e-postlisten 'hussentral-developer at lists.berlios.de'. ?nsker du ? motta informasjon i fremtiden, s? g? til https://lists.berlios.de/mailman/listinfo/hussentral-developer og registrer deg. Da er du sikret siste nytt i prosjektet. Ukjent med prosjektet? Les vedlagte prosjektinformasjon og/eller kontakt undertegnede).
+
+
+VEL OVERST?TT P?SKE TIL DERE ALLE!
+
+Da er vi igang etter p?sken, jeg har lest e-postene fra Are, Morten og Dag Ove, og det gleder meg ? se at entusiasmen blomster. 
+
+KOMMENTAR TIL DAG OVEs E-POST:
+Det er riktig som Dag Ove skriver, at Buskerud fylkeskommune og DDV (Det digitale Vestre Agder) IKKE er interessert i en l?sning som ikke dekker et minimumsbehov (ref. PFD'n). Vi er villige til ? bidra i dette prosjektet kun dersom vi ser at det er mulig ? lykkes med B?DE ? ta frem en teknisk l?sning OG en verdikjede som sikrer en _stor_spredning av l?sningen (helst internasjonalt). 
+
+Vi ?nsker ingen skreddersydd l?sning som kun v?re organisasjoner benytter. Vi ?nsker en "standard" hussentral-l?sning som mange bruker, b?de innenfor privat og offentlig sektor.
+
+KOMMENTAR TIL AREs E-POST:
+Takk til Are som har f?tt opp et forum, og e-postliste! Og en forel?big site for prosjektet (http://hussentral.org). Are og jeg diskuterte litt pr tlf. og vi jobber med ? ta ut et domene av mer internasjonal karakter. Hva med ? gj?re som Asterisk at home-prosjektet? - benytte sourceforge.net? I (http://asteriskathome.sourceforge.net/) -og kalle l?sningen for f.eks. Asterisk at work? Vil Digium tillate bruken av Asterisk-navnet og elementer av logoen? (Jarle/Olle: Kan dere sjekke med Digium?) Kommentarer?
+
+?KONOMI:
+Vi bestemte p? merkantilt m?te den 5. april at vi skal s?ke midler p? Forskningsr?dets BIA-program (http://www.forskningsradet.no/bia) og EUs eTEN-program (http://europa.eu.int/eten/). Det betyr europeisk samarbeid, under ledelse av en europeeisk koordinator. Dette er ikke noen nye tanker, allerede i januar i?r hadde noen av oss (inklusive undertegnede) m?te med Morten Kj?rsgaard, formannn i Foreningen for Open Source Leverand?rer i Danmark. Han viste stor interesse for prosjektet og de av oss som blir med p? studieturen til Danmark den 3.-4. mai vil treffe Morten den 4. I tillegg har jeg avtalt et eget m?te med Morten den 5. mai kl 13.00 for ? diskutere dette prosjektet. Han vil til dette m?te invitere med mulige europeiske samarbeidspartnere (For de som ikke har meldt seg p? studieturen, s? er det ikke for sent. Kontakt meg for n?rmere info).
+
+Vi sendte en skisse p? prosjektet til BIA, og fikk rett f?r p?ske svar. Vi konkluderte med at det er for mye jobb med ? s?ke innen fristen som er den 26. april. Vi velger derfor og ikke s?ke n?, men heller vente til neste anledning (til h?sten?). 
+
+eTEN:
+Dette programmet st?tter ?deployment? og ikke utvikling og pilotering. Vi jobber derfor med ? skrive en prosjektskisse som legger vekt p? utrulling og marked og IKKE teknisk utvikling (og ikke infrastruktur). Jeg har hyret Stein Erik Ellevseth og Tor Arne Bellika for ? bist? i arbeidet med ? lage en engelsk prosjektskisse. Denne skal vi diskutere pr tlf. med programmets leder, David Boster. Dersom han gir oss positive signaler, s? vil de nevnte herrer i samarbeid med Morten Kj?rsgaard m.fl. utarbeide en s?knad. Frist: 19. mai. Om to ?r st?r vi kanskje p? denne listen: http://europa.eu.int/idabc/en/chapter/470
+
+Det er viktig for meg ? f? en viss oversikt over arbeidet med ? utvikle den tekniske l?sningen, slik at det er mulig ? f? en _viss_oversikt_ over utviklingskostnadene. N?r vi s? f?r oversikt over omfanget av hva som skal gj?res og budsjettet, s? f?r vi diskutere hvordan vi skal f? det utviklet. Jeg ?nsker selvsagt ? f? mest mulig for minst mulig penger. Er derfor ?pen for forslag, som f.eks. ? sette ut p? anbud deler av det som skal utvikles (f.eks. sentralbord-modulen), f? opp en beta-versjon (som prosjektet finansierer), og s? legge den ut p? nettstedet til prosjektet (i h?p om at andre utviklere i verden engasjerer seg og bidrar til den videre utviklingen. Mange har fortalt meg at dette er en smart m?te ? gj?re det p?:-)
+
+En gang i juni vil vi forh?pentligvis f? oversikt over hvor mye kroner vi fra det offentlige i Norge kan bidra med. S? fort vi har den engelske prosjektskissen klar, vil Morten Kj?rsgaard sende denne til utvalgte partnere i andre EU-land. Dersom noen av dere andre har partnere i utlandet som dere ser kan v?re aktuelle ? trekke inn i prosjektet, s? vennligst ta kontakt med meg ASAP. Morten vil samtidig be de respektive utenlandske partnerne om ? identifisere mulige st?tte-ordninger i de repespektive land.
+
+Uansett; M?let er jo ? etablere dette som et OpenSource-prosjekt, slik at alle som vil p? et senere tidspunkt kan "henge seg p?". Men for ? tiltrekke oss oppmerksomhet fra utviklere verden over, tror jeg det er viktig at vi  gj?r en del p? forh?nd, som f.eks. ? utvikle en "tidlig-versjon" som nevnt over. Da f?rst tror jeg tiden er inne for ? etablere oss p? f.eks. sourceforge.net. 
+
+VIDERE FRAMDRIFT:
+Teknisk gruppe jobber med ? f? frem en omforent l?sningsbeskrivelse, med et grovt estimat p? hvor mange timer det er ? f? p? plass det som mangler. Dag Ove styrer dette arbeidet. Dersom det er behov for en samling til, s? vil Dag Ove initiere det.
+
+Merkantil gruppe jobber videre med verdikjeden (forretningsmodellene, ref. skissen i informasjonsbrevet, vedlagt), organisering og finansiering av prosjektet.
+
+Nytt m?te i merkantil gruppe: tirsdag 23. mai, Fylkeshuset i Drammen kl 10-14.
+P?melding til bjorn.venn at venn.no
+
+Offisiell oppstart av prosjektet tror jeg for alle praktiske form?l blir etter sommerferien.
+
+
+Med vennlig hilsen
+
+Bj?rn Venn
+Spesialkonsulent
+IKT-seksjonen
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Buskerud fylkeskommune
+Fylkeshuset
+3020 Drammen
+
+www.buskerud-f.kommune.no 
+(www.bfk.no)
+
+tlf. sentralbord.:             32 80 85 00
+tlf.direkte (analog):          32 80 85 44
+mob.tlf.: 	                   99 28 58 50
+fax:	                         32 80 85 49
+e-post: bjorn.venn at bfk.no
+---------------------------------------------------------------------------------
+Buskerud fylkeskommune er med i 
+Regionsamarbeidet Buskerud Telemark Vestfold (BTV)
+Bes?k oss p? www.btvregion.no
+----------------------------------------------------------------------------------
+
+
+
+
+ 
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: prosjektinfo nr 1 - mars 2006.pdf
+Type: application/octet-stream
+Size: 174820 bytes
+Desc: prosjektinfo nr 1 - mars 2006.pdf
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060419/032e6110/attachment.obj>
+
+From bjorn.venn at bfk.no  Fri Apr 28 16:40:16 2006
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Fri, 28 Apr 2006 16:40:16 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?Q?=22Click-to-call=22-_funksjonalitet_fra_en_webside=2E_Vi?=
+ =?iso-8859-1?Q?_m=E5_lage_en_demo_innen_19=2E_mai=21?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68F64D5CA@vfksr035.login.top.no>
+
+Hei,
+
+Vi jobber med ? s?ke EU-penger til prosjektet. Det programmet vi s?ker p? heter eTEN og krever at vi har en oppeg?ende pilot p? det vi s?ker p?. Vi har vinklet oss inn p? 'eGovernment services' og foresl?tt bl.a. en 'click-to-call'-funksjonalitet. Fra en web-side skal brukeren kunne klikke p? et ikon og bli satt i kontakt med en talesvar-l?sning (Asterisk). Et av valgene kan da f.eks. v?re 'snakke med en saksbehandler'.
+
+eTEN krever at vi ha en oppeg?ende pilot (demonstrator) av dette ved s?kertidspunktet. Det er 19. mai.
+
+Gode r?d mottas med takk! Det haster!!!!
+
+Ring meg evt. for detaljer n?r som helst i l?pet av helgen, ogs? 1. mai!!!
+Tlf +47 99 28 58 50
+
+god helg!
+
+Hilsen
+Bj?rn Venn
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20060428/09d7aff8/attachment.html>
+

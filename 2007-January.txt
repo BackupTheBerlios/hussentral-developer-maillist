@@ -1,0 +1,51 @@
+From bjorn.venn at bfk.no  Mon Jan 29 16:36:43 2007
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Mon, 29 Jan 2007 16:36:43 +0100
+Subject: [Hussentral-developer] =?iso-8859-1?q?Minner_om_m=F8tet_i_merkant?=
+	=?iso-8859-1?q?il_gruppe_hos_Voop_den_13=2E2_kl_10-14=2E?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68FB132C9@vfksr035.login.top.no>
+
+Til merkantil gruppe i den norsk delen av EUX2010-prosjektet
+
+Godt nytt?r til dere alle!
+
+Minner om m?tet i merkantil gruppe hos Voop den 13.2 kl 10-14. (Granfos N?ringspark p? Lysaker)
+Agenda finner dere p? siste side i siste nyhetsbrevet (som kan lastes ned fra www.asterisk.no)
+
+Hovedtema blir ? diskutere veien videre for EUX, samt ? diskutere en EUX SMB-l?sning (en enklere hussentral-l?sning for sm? og mellomstore bedrifter, ala Diptels l?sning, men med PC-basert sentralbord)
+
+Vi har f?tt noen penger til prosjektet, dette vil det ogs? bli informert om p? m?tet.
+
+Pga lunsj ber jeg om en tilbakemelding p? om du kommer.
+
+I det kommende nummeret av FriProg-magasinet og Linuxmagasinet har EUX-prosjektet f?tt fin omtale. (FriProg-Magasinet kan fritt lastes ned fra www.tiger.no/friprog/ (se side 34).
+
+
+Med vennlig hilsen
+
+Bj?rn Venn
+Spesialkonsulent
+IKT-seksjonen
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Buskerud fylkeskommune
+Fylkeshuset
+3020 Drammen
+
+www.bfk.no
+
+tlf. sentralbord.:                               32 80 85 00
+tlf.direkte (analog):                        32 80 85 44
+tlf.direkte (Asterisk IP-telefon):   31 30 23 05
+mob.tlf.: 	                             99 28 58 50
+fax:	                                             32 80 85 49
+e-post: bjorn.venn at bfk.no
+-----------------------------------------------------------------------------------------
+Buskerud fylkeskommune er initiativtager til EUX-prosjektet; et prosjekt for ? ta frem en telefonil?sning basert p? fri programvare (Asterisk). Les mer p? www.asterisk.no
+-----------------------------------------------------------------------------------------
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20070129/10e9ea9a/attachment.html>
+

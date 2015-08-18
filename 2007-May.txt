@@ -1,0 +1,53 @@
+From bjorn.venn at bfk.no  Tue May 15 12:11:22 2007
+From: bjorn.venn at bfk.no (=?iso-8859-1?Q?Bj=F8rn_Venn?=)
+Date: Tue, 15 May 2007 12:11:22 +0200
+Subject: [Hussentral-developer] =?iso-8859-1?q?Status_EUX2010_og_EU-s=F8kn?=
+	=?iso-8859-1?q?aden?=
+Message-ID: <6850A1692CB5474BA1ABA38F33BBC68FB135FE@vfksr035.login.top.no>
+
+Til alle i det norske EUX-nettverket
+Fra nasjonal koordinator Bj?rn Venn
+
+Status EUX2010 og EU-s?knaden
+
+Som de fleste vet, s? sliter vi med ? komme videre med EUX-prosjektet, mye pga. manglende finanisering. S?knad om ?konomisk st?tte fra EU-systemet har noen av oss jobbet med i over ett ?r. Endelig lyktes vi med ? sende en s?knad. Det er partnere fra 7 europeiske land med. Det er ventet ? f? en tilbakemelding i l?pet av juli.
+
+Det er en formidabel jobb og sette seg inn i kravene til en EU-s?knad og f? formulert en s?knad som passer med kravene.
+S? derfor en STOR TAKK til Nikolaj i Magenta (sekretariatet) for en kjempeinnsats!! 
+
+(For de som vil ha ytterligere info, kontakt meg!)
+
+Jeg har samtidig etterlyst private investorer, og at noen av de private selskapene setter seg i f?rersetet p? prosjektet.
+Mye tyder p? at firma Freecode er interessert i ? ta en mer aktiv lederrolle i prosjektet. Mer informasjon om dette vil komme senere.
+(jeg ?nsker ? trappe ned min rolle i dette)
+
+Diverse annet nytt:
+
+1. Det blir ikke noe nytt m?te i merkantil gruppe f?r sommeren.
+
+2. Status EUX2010SEC: Det f?rste delprosjektet i EUX er startet opp, st?ttet ?konomisk av Norges Forskningsr?d (gjennom VERDIKT-programmet). Det er ansatt en doktorgradsstipendiat (som kommer fra Linpro). De av dere som er med i EUX2010SEC, f?r informasjon direkte av prosjektleder Arne Kristian Groven i NR.
+ 
+3. EUX-nettverkets finske partner, Vasa Polytechnic, jobber med videokonferansel?sninger. Har noen av dere noe ? bidra med;
+kontakt Rainer Lytz (Rainer.Lytz at puv.fi).
+
+4. Status DDV: Savner sentralbord fortsatt!! Vurderer ? forsere EUX og utvikle en PC-basert sentralbordapplikasjon p? eget initiativ. Har noen av dere noe ? bidra med; kontakt Roald Aamodt (Roald.Aamodt at kvinesdal.kommune.no)
+
+5. Status Bfk: Asterisk satt i drift p? en vgs, server for fylkeshuset blir i l?pet av de kommende ukene installert (Leverand?r: Ella kommunikasjon). Savner fortsatt sentralbord og mye av det andre som EUX adresserer!! 
+
+6. EUX-prosjektet er beskrevet som et eksempel p? et kompetanse- og leverand?rutviklingsprosjekt i forslaget til Nasjonalt kompetansesenter for fri programvare. Senteret ser trolig dagens lys i l?pet av sommeren. Det blir med stor sannsynlighet et aksjeselskap.
+
+7. Initiativtagerne til kompetansesenteret lagde i februar et reklamemagasin for fri programvare. Asterisk/EUX er omtalt p? side 34. Magasinet i sin helhet, samt de enkelte artiklene, kan fritt lastes ned fra www.friprog.no. Der kan ogs? papirutgaver bestilles. Kj?p papirutgaver, del ut til deres forretningsforbindelser og bidra til ? spre informasjon om fri programvare!
+
+8.Bj?rn Venn har denne v?ren holdt flere foredrag om Asterisk og EUX, bl.a. p? to store Open Source-konferanser i Stockholm og K?benhavn. Den 4.-5. juni arrangeres den den ?rlige IT-konferansen for kommune-Norge, hvor Bj?rn ogs? skal prate om EUX/Asterisk. Kontakt KS (line.richardsen at ks.no) dersom noen av dere vil stille med en stand. Konferansen er i Troms?.
+
+Deler av denne informasjonen legger jeg ut p? www.asterisk.no.
+
+Har noen av dere andre noen interessanne nyheter, er dere velkommen til ? dele de med oss andre:-)
+
+Beste hilsner
+Bj?rn Venn
+Nasjonal koordinator EUX2010
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/hussentral-developer/attachments/20070515/26e020c2/attachment.html>
+
